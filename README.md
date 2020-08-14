@@ -6,19 +6,19 @@ Many terms, concepts, and words in this Code of Conduct may be new or unfamiliar
 
 ## Code of Conduct Index
 
-* 🌈[Rules of Play](https://www.notion.so/Rules-of-Play-e2d224ae8c464ad8a68aefd31d3da444)
-* 📚[Reading List](https://www.notion.so/Reading-List-6d3c7f6d2cc9495390dc1005d5291066)
-* ⛑[Community Stewards](https://www.notion.so/Community-Stewards-39c1182a1ee049488bcd7e955c1ee419)
-* 🔗[Attribution](https://www.notion.so/Attribution-09ab5c13345245e989d2a957f989fe5e)
-* 💻[Usage of Technology](https://www.notion.so/Usage-of-Technology-144508d449a943009d4ebc387dd553fd)
-* ❤️[Mediation and Facilitation](https://www.notion.so/Mediation-and-Facilitation-154ce9b687dc40af8d9898593964fa7f)
-* 🚧[Development of Code of Conduct](https://www.notion.so/Development-of-Code-of-Conduct-b8277092388c4be28729b3361cf0394d)
+* 🌈 [Rules of Play](https://www.notion.so/Rules-of-Play-e2d224ae8c464ad8a68aefd31d3da444)
+* 📚 [Reading List](https://www.notion.so/Reading-List-6d3c7f6d2cc9495390dc1005d5291066)
+* ⛑ [Community Stewards](https://www.notion.so/Community-Stewards-39c1182a1ee049488bcd7e955c1ee419)
+* 🔗 [Attribution](https://www.notion.so/Attribution-09ab5c13345245e989d2a957f989fe5e)
+* 💻 [Usage of Technology](https://www.notion.so/Usage-of-Technology-144508d449a943009d4ebc387dd553fd)
+* ❤️ [Mediation and Facilitation](https://www.notion.so/Mediation-and-Facilitation-154ce9b687dc40af8d9898593964fa7f)
+* 🚧 [Development of Code of Conduct](https://www.notion.so/Development-of-Code-of-Conduct-b8277092388c4be28729b3361cf0394d)
 
 ## Community Statement
 
 > *We live in a fractured world where communities are burdened by differences - so what we ask of you is nothing short of miraculous.* —Red Burns
 
-ITP/IMA is a community whose mission is to explore the imaginative uses of emerging technologies — to make people's lives safer, more just, more beautiful, more meaningful and more fun. We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
+ITP/IMA<sup>[1](#ITPIMAFootnote)</sup> is a community whose mission is to explore the imaginative uses of emerging technologies — to make people's lives safer, more just, more beautiful, more meaningful and more fun. We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
 
 The scope of this Code of Conduct applies to all ITP/IMA community members (faculty, staff, students, residents, fellows, and guests), ITP/IMA physical and digital spaces (e.g. Email listservs, Yorb, and ITP/IMA Discord server), and all courses, events, and projects created at or in service to ITP/IMA.
 
@@ -47,3 +47,6 @@ We recognize that simply being part of the ITP/IMA community places us in a priv
 We pledge to center creative and ethical uses of technology in our research, teaching, and making. We accept the claim that technology is a reflection of society, its histories, and its politics. We reject the claim that technology is neutral and acknowledge that every technology has the potential to do as much harm as good. We acknowledge that when technologies cause harm, the harm disproportionately affects Black, Brown, Indigenous, People of Color (BIPOC) queer, trans, disabled, femme, low-income, survivors, and all other marginalized bodies and communities worldwide. 
 
 With this understanding, it is our responsibility to center these groups when hosting, participating in, or developing events (e.g. workshops or meetings), materials (e.g. courses, syllabi, resources), technologies (software, hardware, tools, etc) and creative applications made at ITP /IMA (e.g. works of art, products, installations, experiments, etc).
+
+## Footnotes
+<a name="ITPIMAFootnote">1</a>: Interactive Telecommuncations Program / Interactive Media Arts
