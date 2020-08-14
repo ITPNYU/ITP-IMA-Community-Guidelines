@@ -1,28 +1,22 @@
 # Code of Conduct
 
-`The Code of Conduct is an evolving document, open to revisions, clarifications, and reconsideration. For more information on how the Code of Conduct came to be, who was involved, and how you can get involved check out the [Code of Conduct Development](https://www.notion.so/itpequity/CoC-Development-b8277092388c4be28729b3361cf0394d) page.`
+The Code of Conduct is an evolving document, open to revisions, clarifications, and reconsideration. For more information on how the Code of Conduct came to be, who was involved, and how you can get involved check out the [Code of Conduct Development](https://www.notion.so/itpequity/CoC-Development-b8277092388c4be28729b3361cf0394d) page.
 
-`Many terms, concepts, and words in this Code of Conduct may be new or unfamiliar. Please refer to the [Glossary](https://www.nyu.edu/life/global-inclusion-and-diversity/learning-and-development/toolkits/glossary.html) for clarification of meaning. Certain words may be highlighted in the Code of Conduct with definitions in order to assist with comprehensibility`
+Many terms, concepts, and words in this Code of Conduct may be new or unfamiliar. Please refer to the [Glossary](https://www.nyu.edu/life/global-inclusion-and-diversity/learning-and-development/toolkits/glossary.html) for clarification of meaning. Certain words may be highlighted in the Code of Conduct with definitions in order to assist with comprehensibility.
 
-# Code of Conduct Index
+## Code of Conduct Index
 
-[Rules of Play](https://www.notion.so/Rules-of-Play-e2d224ae8c464ad8a68aefd31d3da444)
+* 🌈[Rules of Play](https://www.notion.so/Rules-of-Play-e2d224ae8c464ad8a68aefd31d3da444)
+* 📚[Reading List](https://www.notion.so/Reading-List-6d3c7f6d2cc9495390dc1005d5291066)
+* ⛑[Community Stewards](https://www.notion.so/Community-Stewards-39c1182a1ee049488bcd7e955c1ee419)
+* 🔗[Attribution](https://www.notion.so/Attribution-09ab5c13345245e989d2a957f989fe5e)
+* 💻[Usage of Technology](https://www.notion.so/Usage-of-Technology-144508d449a943009d4ebc387dd553fd)
+* ❤️[Mediation and Facilitation](https://www.notion.so/Mediation-and-Facilitation-154ce9b687dc40af8d9898593964fa7f)
+* 🚧[Development of Code of Conduct](https://www.notion.so/Development-of-Code-of-Conduct-b8277092388c4be28729b3361cf0394d)
 
-[Reading List](https://www.notion.so/Reading-List-6d3c7f6d2cc9495390dc1005d5291066)
+## Community Statement
 
-[Community Stewards](https://www.notion.so/Community-Stewards-39c1182a1ee049488bcd7e955c1ee419)
-
-[Attribution](https://www.notion.so/Attribution-09ab5c13345245e989d2a957f989fe5e)
-
-[Usage of Technology](https://www.notion.so/Usage-of-Technology-144508d449a943009d4ebc387dd553fd)
-
-[Mediation and Facilitation](https://www.notion.so/Mediation-and-Facilitation-154ce9b687dc40af8d9898593964fa7f)
-
-[Development of Code of Conduct](https://www.notion.so/Development-of-Code-of-Conduct-b8277092388c4be28729b3361cf0394d)
-
-# **Community Statement**
-
-> *We live in a fractured world where communities are burdened by differences - so what we ask of you is nothing short of miraculous ~* Red Burns
+> *We live in a fractured world where communities are burdened by differences - so what we ask of you is nothing short of miraculous.* —Red Burns
 
 ITP/IMA is a community whose mission is to explore the imaginative uses of emerging technologies — to make people's lives safer, more just, more beautiful, more meaningful and more fun. We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
 
