@@ -65,6 +65,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/sarahrothberg"><img src="https://avatars1.githubusercontent.com/u/2333512?v=4" width="100px;" alt=""/><br /><sub><b>ROTHBERG</b></sub></a><br /><a href="#content-sarahrothberg" title="Content">🖋</a> <a href="#ideas-sarahrothberg" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="http://www.shiffman.net"><img src="https://avatars0.githubusercontent.com/u/191758?v=4" width="100px;" alt=""/><br /><sub><b>Daniel Shiffman</b></sub></a><br /><a href="#projectManagement-shiffman" title="Project Management">📆</a></td>
+    <td align="center"><a href="https://github.com/RiosITP"><img src="https://avatars2.githubusercontent.com/u/43545189?v=4" width="100px;" alt=""/><br /><sub><b>RiosITP</b></sub></a><br /><a href="#content-RiosITP" title="Content">🖋</a></td>
   </tr>
 </table>
 
