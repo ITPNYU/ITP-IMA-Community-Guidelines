@@ -1,4 +1,7 @@
 # Code of Conduct
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 The Code of Conduct is an evolving document, open to revisions, clarifications, and reconsideration. For more information on how the Code of Conduct came to be, who was involved, and how you can get involved check out the [Code of Conduct Development](documents/development.md) page.
 
@@ -50,3 +53,22 @@ With this understanding, it is our responsibility to center these groups when ho
 
 ## Footnotes
 <a name="ITPIMAFootnote">1</a>: This is an example of a footnote. Interactive Telecommuncations Program / Interactive Media Arts
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/sarahrothberg"><img src="https://avatars1.githubusercontent.com/u/2333512?v=4" width="100px;" alt=""/><br /><sub><b>ROTHBERG</b></sub></a><br /><a href="#content-sarahrothberg" title="Content">🖋</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
