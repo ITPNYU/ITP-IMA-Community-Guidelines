@@ -12,6 +12,7 @@ Many terms, concepts, and words in this Code of Conduct may be new or unfamiliar
 * 💻 [Usage of Technology](documents/usage-of-technology.md)
 * 💜 [Mediation and Facilitation](documents/mediation-facilitation.md)
 * 🚧 [Development of Code of Conduct](CONTRIBUTING.md)
+* 📇 [Glossary]
 
 ## Community Statement
 
