@@ -23,6 +23,7 @@ The Rules of Play represents the ITP/IMA community’s attempt to develop an evo
 - Credit other people's work. Whether you are using an open-source library or a classmate has graciously offered you assistance, make note of that and highlight it when presenting your own work.
 - Ask questions when you do not understand something. Chances are you are the not the only person in the classroom or group who does not understand or needs clarification.
 - Coordinate and collaborate. There will be times when space and equipment are in short supply and needed by multiple people. Work together to plan how those resources can be allocated and shared so no one person is monopolizing the resource.
+- Be responsible with your use of materials. Consider: environmentally sustainable materials, reused materials, and materials that do not pose risk to those around you who may have sensitivities to allergies, scents, etc.  
 
 ## Unacceptable
 
