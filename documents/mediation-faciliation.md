@@ -28,7 +28,7 @@ The above reporting process is not a replacement for the university’s bias res
 - Email: [bias.response@nyu.edu](mailto:bias.response@nyu.edu)
 - Online Form: [https://nyu.qualtrics.com/SE/?SID=SV_55x3HRqPYDsI0uN](https://nyu.qualtrics.com/SE/?SID=SV_55x3HRqPYDsI0uN)
 
-## The Wellness Exchange** 
+## The Wellness Exchange
 
 The Wellness Exchange is your mental health resource at NYU. Call the **24-hour hotline at (212) 443-9999** or chat via the Wellness Exchange app anytime to speak with a certified counselor about any day-to-day challenges or health concerns.
 

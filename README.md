@@ -1,6 +1,6 @@
 # Code of Conduct
 
-The Code of Conduct is an evolving document, open to revisions, clarifications, and reconsideration. For more information on how the Code of Conduct came to be, who was involved, and how you can get involved check out the[Code of Conduct Development](documents/development.md) page.
+The Code of Conduct is an evolving document, open to revisions, clarifications, and reconsideration. For more information on how the Code of Conduct came to be, who was involved, and how you can get involved check out the [Code of Conduct Development](documents/development.md) page.
 
 Many terms, concepts, and words in this Code of Conduct may be new or unfamiliar. Please refer to the [Glossary](documents/glossary.md) for clarification of meaning. Certain words may be highlighted in the Code of Conduct with definitions in order to assist with comprehensibility.
 
@@ -10,7 +10,7 @@ Many terms, concepts, and words in this Code of Conduct may be new or unfamiliar
 * ⛑ [Community Stewards](documents/community-stewards.md)
 * 🔗 [Attribution](documents/attribution.md)
 * 💻 [Usage of Technology](documents/usage-of-technology.md)
-* 💜 [Mediation and Facilitation](documents/mediation-and-facilitation.md)
+* 💜 [Mediation and Facilitation](documents/mediation-facilitation.md)
 * 🚧 [Development of Code of Conduct](documents/development.md)
 
 ## Community Statement
