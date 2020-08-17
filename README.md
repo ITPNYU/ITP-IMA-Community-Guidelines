@@ -1,6 +1,6 @@
 # Code of Conduct
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 The Code of Conduct is an evolving document, open to revisions, clarifications, and reconsideration. For more information on how the Code of Conduct came to be, who was involved, and how you can get involved check out the [Code of Conduct Development](documents/development.md) page.
@@ -64,6 +64,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/sarahrothberg"><img src="https://avatars1.githubusercontent.com/u/2333512?v=4" width="100px;" alt=""/><br /><sub><b>ROTHBERG</b></sub></a><br /><a href="#content-sarahrothberg" title="Content">🖋</a> <a href="#ideas-sarahrothberg" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/RiosITP"><img src="https://avatars2.githubusercontent.com/u/43545189?v=4" width="100px;" alt=""/><br /><sub><b>RiosITP</b></sub></a><br /><a href="#content-RiosITP" title="Content">🖋</a></td>
   </tr>
 </table>
 
