@@ -30,7 +30,7 @@ The Rules of Play represents the ITP/IMA community’s attempt to develop an evo
 
 - Offensive comments related to gender identity and expression, sexual orientation, race, ethnicity, language, neuro-type, size, ability, class, religion, culture, subculture, age, skill level, occupation, or background
 - Threats of violence and deliberate intimidation
-- Sharing sexually explicit or violent material that is not contextualized and preceded by a considerate warning.
+- Sharing sexually explicit or violent material that is not contextualized and preceded by a considerate warning
 - Unwelcome sexual attention
 - Stalking or following
 - All forms of harassment, physical or digital
@@ -46,9 +46,9 @@ The Rules of Play represents the ITP/IMA community’s attempt to develop an evo
 
 ### Faculty / Staff / Residents / Fellows
 
-- Provide modes for student feedback and be open to criticism
-- Address behavior that violates the Code of Conduct
-- Provide a learning environment that allows for the full complexity of thoughts and experiences to be shared and heard
-- Listen to and acknowledge perspectives and opinions of marginalized people
-- Maintain a diverse representation of identities and experiences within class syllabi (projects, resources, guests)
-- Structure classes and environments in order to allow for multiple modes of participation
+- Provide modes for student feedback and be open to criticism.
+- Address behavior that violates the Code of Conduct.
+- Provide a learning environment that allows for the full complexity of thoughts and experiences to be shared and heard.
+- Listen to and acknowledge perspectives and opinions of marginalized people.
+- Maintain a diverse representation of identities and experiences within class syllabi (projects, resources, guests).
+- Structure classes and environments in order to allow for multiple modes of participation.
