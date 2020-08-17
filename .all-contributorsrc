@@ -32,6 +32,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "mromein",
+      "name": "Matt Romein",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/7660881?v=4",
+      "profile": "http://matt-romein.com",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
