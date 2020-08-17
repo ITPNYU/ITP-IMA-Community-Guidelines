@@ -11,7 +11,7 @@ Many terms, concepts, and words in this Code of Conduct may be new or unfamiliar
 * 🔗 [Attribution](documents/attribution.md)
 * 💻 [Usage of Technology](documents/usage-of-technology.md)
 * 💜 [Mediation and Facilitation](documents/mediation-facilitation.md)
-* 🚧 [Development of Code of Conduct](documents/development.md)
+* 🚧 [Development of Code of Conduct](CONTRIBUTING.md)
 
 ## Community Statement
 
