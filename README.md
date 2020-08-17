@@ -5,7 +5,6 @@ The Code of Conduct is an evolving document, open to revisions, clarifications, 
 Many terms, concepts, and words in this Code of Conduct may be new or unfamiliar. Please refer to the [Glossary](documents/glossary.md) for clarification of meaning. Certain words may be highlighted in the Code of Conduct with definitions in order to assist with comprehensibility.
 
 ## Code of Conduct Index
-
 * 🌈 [Rules of Play](documents/rules-of-play.md)
 * 📚 [Reading List](documents/reading-list.md)
 * ⛑ [Community Stewards](documents/community-stewards.md)
@@ -18,10 +17,9 @@ Many terms, concepts, and words in this Code of Conduct may be new or unfamiliar
 
 > *We live in a fractured world where communities are burdened by differences - so what we ask of you is nothing short of miraculous.*<br/> — Red Burns
 
-ITP/IMA is a community whose mission is to explore the imaginative uses of emerging technologies — to make people's lives safer, more just, more beautiful, more meaningful, and more fun. We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
+ITP/IMA<sup>[1](#ITPIMAFootnote)</sup> is a community whose mission is to explore the imaginative uses of emerging technologies — to make people's lives safer, more just, more beautiful, more meaningful, and more fun. We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
 
 The scope of this Code of Conduct applies to all ITP/IMA community members (faculty, staff, students, residents, fellows, and guests), ITP/IMA physical and digital spaces (e.g. Email listservs, Yorb, and ITP/IMA Discord server), and all courses, events, and projects created at or in service to ITP/IMA.
-
 
 ### Solidarity
 
@@ -48,3 +46,6 @@ We recognize that simply being part of the ITP/IMA community places us in a priv
 We pledge to center creative and ethical uses of technology in our research, teaching, and making. We accept the claim that technology is a reflection of society, its histories, and its politics. We reject the claim that technology is neutral and acknowledge that every technology has the potential to do as much harm as good. We acknowledge that when technologies cause harm, the harm disproportionately affects Black, Brown, Indigenous, People of Color (BIPOC) queer, trans, disabled, femme, low-income, survivors, and all other marginalized bodies and communities worldwide. 
 
 With this understanding, it is our responsibility to center these groups when hosting, participating in, or developing events (e.g. workshops or meetings), materials (e.g. courses, syllabi, resources), technologies (software, hardware, tools, etc) and creative applications made at ITP /IMA (e.g. works of art, products, installations, experiments, etc).
+
+## Footnotes
+<a name="ITPIMAFootnote">1</a>: This is an example of a footnote. Interactive Telecommuncations Program / Interactive Media Arts
