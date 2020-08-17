@@ -1,12 +1,12 @@
-# Rules of Play
+# 🌈 Rules of Play
 
-> *Our signature is collaboration - no competition. Collaboration will jar you, provoke you, confront you, offer you different ways of looking at the world     ~* Red Burns
+> *Our signature is collaboration - no competition. Collaboration will jar you, provoke you, confront you, offer you different ways of looking at the world.*<br/> — Red Burns
 
 The Rules of Play represents the ITP/IMA community’s attempt to develop an evolving collective understanding of what it means to work together and use technology creatively, appropriately, ethically, and critically. As members of this community we hold ourselves to adhering to these guidelines, acknowledging when we have failed to do so, and working to address the impact of our actions.
 
 ## Aspirational
 
-`These are ideals and behaviors we pledge to hold ourselves to. We will work to change our behavior when we have failed to do so`
+*These are ideals and behaviors we pledge to hold ourselves to. We will work to change our behavior when we have failed to do so.*
 
 - Speak from a place of personal experience and use I statements. Honor other people's lived experiences and speak to your own.
 - Practice active listening. Focus on hearing what others have to say rather than formulating your response.
@@ -16,7 +16,7 @@ The Rules of Play represents the ITP/IMA community’s attempt to develop an evo
 
 ## Practical
 
-`These are courtesies and etiquettes that may not have occurred to us because the world changes so quickly`
+*These are courtesies and etiquettes that may not have occurred to us because the world changes so quickly.*
 
 - Practice asking for consent. It's important not to make assumptions of what's ok or acceptable especially in regards to physical contact, sharing personal information, and sharing content that could be upsetting or potentially triggering.
 - Do not photograph or record someone (audio or video) without receiving permission first. Do not post online, upload to social media, or tag someone without receiving permission. This applies to people's work and projects as well.
@@ -26,7 +26,7 @@ The Rules of Play represents the ITP/IMA community’s attempt to develop an evo
 
 ## Unacceptable
 
-`These behaviors are completely unacceptable within our community and are grounds for disciplinary actions by NYU` 
+*These behaviors are completely unacceptable within our community and are grounds for disciplinary actions by NYU.*
 
 - Offensive comments related to gender identity and expression, sexual orientation, race, ethnicity, language, neuro-type, size, ability, class, religion, culture, subculture, age, skill level, occupation, or background
 - Threats of violence and deliberate intimidation
@@ -35,14 +35,16 @@ The Rules of Play represents the ITP/IMA community’s attempt to develop an evo
 - Stalking or following
 - All forms of harassment, physical or digital
 
-## Students
+## Responsibilities and Commitments
+
+### Students
 
 - Work to create a community and environment that is supportive of one another and invites people to be their full selves.
 - Consider if your project, actions, or behavior is causing harm to other community members.
 - Be respectful of common space and equipment. Keep it clean, be courteous, be gentle, put things away, and return things to how you found it.
 - Be respectful of staff and student workers. Listen to them when they tell you that your actions may be dangerous, that a service is closed, or that equipment is unavailable or out of order.
 
-## Faculty / Staff / Residents / Fellows
+### Faculty / Staff / Residents / Fellows
 
 - Provide modes for student feedback and be open to criticism
 - Address behavior that violates the Code of Conduct

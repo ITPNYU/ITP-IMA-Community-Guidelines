@@ -1,4 +1,4 @@
-# Attribution
+# 🔗 Attribution
 
 In addition to the work done by community members in developing the Code of Conduct we want to acknowledge the community guidelines used by other communities that have acted as a guide, reference, and inspiration for our own process.
 

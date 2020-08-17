@@ -11,12 +11,12 @@ Many terms, concepts, and words in this Code of Conduct may be new or unfamiliar
 * ⛑ [Community Stewards](documents/community-stewards.md)
 * 🔗 [Attribution](documents/attribution.md)
 * 💻 [Usage of Technology](documents/usage-of-technology.md)
-* ❤️ [Mediation and Facilitation](documents/mediation-and-facilitation.md)
+* 💜 [Mediation and Facilitation](documents/mediation-and-facilitation.md)
 * 🚧 [Development of Code of Conduct](documents/development.md)
 
 ## Community Statement
 
-> *We live in a fractured world where communities are burdened by differences - so what we ask of you is nothing short of miraculous.* —Red Burns
+> *We live in a fractured world where communities are burdened by differences - so what we ask of you is nothing short of miraculous.*<br/> — Red Burns
 
 ITP/IMA is a community whose mission is to explore the imaginative uses of emerging technologies — to make people's lives safer, more just, more beautiful, more meaningful, and more fun. We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
 

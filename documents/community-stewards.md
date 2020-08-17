@@ -1,4 +1,4 @@
-# Community Stewards
+# ⛑ Community Stewards
 
 The Code of Conduct stewards are responsible for maintaining the Code of Conduct, managing discussions about additions and subtractions, and interpreting the Code of Conduct in related discussions.
 
@@ -6,10 +6,10 @@ The initial stewards consist of members of the ITP/IMA community responsible for
 
 This year’s stewards are:
 
-**Tech & Society:** 
+## Tech & Society
 
-Ashley Jane Lewis, Lydia Jessup, Verónica Alfaro Arias & Mary Notari
+Ashley Jane Lewis, Lydia Jessup, Verónica Alfaro Arias, Mary Notari
 
-**ITP/IMA Equitability Working Group:** 
+## ITP/IMA Equitability Working Group
 
-Blair Simmons, Dan Shiffman, David Rios
+Blair Simmons, Daniel Shiffman, David Rios

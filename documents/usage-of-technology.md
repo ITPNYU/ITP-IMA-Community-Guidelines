@@ -1,8 +1,8 @@
-# Usage of Technology
+# 💻 Usage of Technology
 
-> Think of technology as a verb, not a noun. It provides the tools. Creative people provide imagination ~ Red Burns
+> *Think of technology as a verb, not a noun. It provides the tools. Creative people provide imagination.*<br/> — Red Burns
 
-`As artists, designers, students, educators, toolmakers, technologists we are in dialogue with technology and the people it affects. We learn, play, explore, contextualize, and critique. We are responsible for making work ethically, and holding ourselves and each other accountable to ethical and equitable standards.`
+*As artists, designers, students, educators, toolmakers, technologists we are in dialogue with technology and the people it affects. We learn, play, explore, contextualize, and critique. We are responsible for making work ethically, and holding ourselves and each other accountable to ethical and equitable standards.*
 
 What follows are our guiding principles. As always dialogue and communication are essential in understanding and navigating nuance and difference of opinion. Remember that intent (why you want to make the tool or create the project) does not absolve you of impact (how the tool is used and the harm your project could cause). We also acknowledge the complexity and intersectionality that may arise when adhering to these principles. Above all, community dialogue will be our guide in these moments.
 
