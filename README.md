@@ -3,7 +3,7 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-The Code of Conduct is an evolving document, open to revisions, clarifications, and reconsideration. For more information on how the Code of Conduct came to be, who was involved, and how you can get involved check out the [Code of Conduct Development](documents/development.md) page.
+The Code of Conduct is an evolving document, open to revisions, clarifications, and reconsideration. For more information on how the Code of Conduct came to be, who was involved, and how you can get involved check out the [Code of Conduct Development](CONTRIBUTING.md) page.
 
 Many terms, concepts, and words in this Code of Conduct may be new or unfamiliar. Please refer to the [Glossary](documents/glossary.md) for clarification of meaning. Certain words may be highlighted in the Code of Conduct with definitions in order to assist with comprehensibility.
 
