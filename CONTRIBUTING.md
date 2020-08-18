@@ -1,6 +1,6 @@
 # 🚧 Development of Code of Conduct
 
-The ITP/IMA Code of Conduct is an ever-evolving document that establishes and communicates the commitment of the ITP/IMA community to uphold a key set of standards and obligations that aim to make ITP/IMA a friendly and welcoming environment to be a part of.
+The ITP/IMA CoC is an evolving document that establishes and communicates the commitment of the ITP/IMA community to uphold a key set of standards and obligations that aim to make ITP/IMA an inclusive and welcoming environment.
 
 ## Developing and Growing the Code of Conduct
 
