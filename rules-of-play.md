@@ -53,3 +53,14 @@ The Rules of Play represents the ITP/IMA community’s attempt to develop an evo
 - Listen to and acknowledge perspectives and opinions of marginalized people.
 - Maintain a diverse representation of identities and experiences within class syllabi (projects, resources, guests).
 - Structure classes and environments in order to allow for multiple modes of participation.
+
+## Code of Conduct Index
+* 🌈 [Community Statement](community-statement.md)
+* 🚧 [Development of Code of Conduct](CONTRIBUTING.md)
+* 🌈 [Rules of Play](rules-of-play.md)
+* 💜 [Mediation and Facilitation](mediation-facilitation.md)
+* 💻 [Usage of Technology](usage-of-technology.md)
+* ⛑ [Community Stewards](community-stewards.md)
+* 🔗 [Attribution](attribution.md)
+* 📚 [Reading List](reading-list.md)
+* 📇 [Glossary]

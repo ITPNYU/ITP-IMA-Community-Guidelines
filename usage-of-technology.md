@@ -16,3 +16,14 @@ What follows are our guiding principles. As always dialogue and communication ar
 - Do not build weapons or tools that control weapons.
     - This includes tools or projects that would do physical, mental, or emotional harm.
     - This includes tools that automate the deployment, operation, and targeting of weapons.
+
+## Code of Conduct Index
+* 🌈 [Community Statement](community-statement.md)
+* 🚧 [Development of Code of Conduct](CONTRIBUTING.md)
+* 🌈 [Rules of Play](rules-of-play.md)
+* 💜 [Mediation and Facilitation](mediation-facilitation.md)
+* 💻 [Usage of Technology](usage-of-technology.md)
+* ⛑ [Community Stewards](community-stewards.md)
+* 🔗 [Attribution](attribution.md)
+* 📚 [Reading List](reading-list.md)
+* 📇 [Glossary]

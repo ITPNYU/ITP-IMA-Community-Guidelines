@@ -35,3 +35,14 @@ The Wellness Exchange is your mental health resource at NYU. Call the **24-hour 
 ## Emergency
 
 Please call 911 directly to report criminal activity (e.g. physical assault, sexual assault, theft), or to report a dangerous physical situation (e.g. fire, serious injury, fear that someone will hurt themselves or someone else).
+
+## Code of Conduct Index
+* 🌈 [Community Statement](community-statement.md)
+* 🚧 [Development of Code of Conduct](CONTRIBUTING.md)
+* 🌈 [Rules of Play](rules-of-play.md)
+* 💜 [Mediation and Facilitation](mediation-facilitation.md)
+* 💻 [Usage of Technology](usage-of-technology.md)
+* ⛑ [Community Stewards](community-stewards.md)
+* 🔗 [Attribution](attribution.md)
+* 📚 [Reading List](reading-list.md)
+* 📇 [Glossary]
