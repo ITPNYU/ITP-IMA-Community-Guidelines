@@ -14,3 +14,14 @@ We expect the Code of Conduct to be an evolving document. This evolution will ta
 - Second, elements will be clarified through interpretation. The Code of Conduct is made up of high level principles that may apply differently to each ITP/IMA community space and project. We intend to add interpretations to the Code of Conduct as we make them. We hope that this will add context to the principles over time.
 
 In addition to the Code of Conduct itself, when considering the development of creative computing applications, we recommend a further [Reading List](reading-list.md) which highlights key texts on ethics and technology.
+
+## Code of Conduct Index
+* 🌈 [Community Statement](community-statement.md)
+* 🚧 [Development of Code of Conduct](CONTRIBUTING.md)
+* 🌈 [Rules of Play](rules-of-play.md)
+* 💜 [Mediation and Facilitation](mediation-facilitation.md)
+* 💻 [Usage of Technology](usage-of-technology.md)
+* ⛑ [Community Stewards](community-stewards.md)
+* 🔗 [Attribution](attribution.md)
+* 📚 [Reading List](reading-list.md)
+* 📇 [Glossary]
