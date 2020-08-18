@@ -4,7 +4,7 @@ As we are responsible for upholding ethical standards of learning and making, we
 
 We recognize that code of conduct violations can take many forms, (sometimes people are unaware of their behavior). We recognize, violations can come from any community member to any community member (including but not limited to, student to student, faculty to student, student to faculty, faculty to faculty, staff to student, student to staff, faculty to staff, staff to faculty including faculty, staff, students, and guests), inside and/or outside of the classroom, in physical and digital spaces.
 
-In the event of a code of conduct violation, unresolved dispute, or conflict, or a code of conduct violation, or code of conduct suggestion, ,community members should voice concern or log issues report violations in the following ways.
+In the event of a code of conduct violation, unresolved dispute, or conflict, community members should voice concern or log issues report violations in the following ways.
 
 - *Fill out the reporting form [Link to anonymous google form](https://forms.gle/P2x1KmwWXaXAc4Jw5)*
 - *Or contact [Incl. 3 contact email addresses]*
