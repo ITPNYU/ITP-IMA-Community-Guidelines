@@ -26,4 +26,4 @@ What follows are our guiding principles. As always dialogue and communication ar
 * ⛑ [Community Stewards](community-stewards.md)
 * 🔗 [Attribution](attribution.md)
 * 📚 [Reading List](reading-list.md)
-* 📇 [Glossary]
+* 📇 [Glossary](glossary.md)

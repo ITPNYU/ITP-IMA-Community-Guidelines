@@ -63,4 +63,4 @@ The Rules of Play represents the ITP/IMA community’s attempt to develop an evo
 * ⛑ [Community Stewards](community-stewards.md)
 * 🔗 [Attribution](attribution.md)
 * 📚 [Reading List](reading-list.md)
-* 📇 [Glossary]
+* 📇 [Glossary](glossary.md)
