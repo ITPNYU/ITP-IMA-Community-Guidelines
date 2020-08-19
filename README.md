@@ -31,13 +31,13 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
+    <td align="center"><a href="http://www.ashleyjanelewis.com"><img src="https://avatars3.githubusercontent.com/u/43127855?v=4" width="100px;" alt=""/><br /><sub><b>Ashley Jane Lewis</b></sub></a><br /><a href="#content-AshleyJaneLewis" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/lydiajessup"><img src="https://avatars3.githubusercontent.com/u/26204298?v=4" width="100px;" alt=""/><br /><sub><b>Lydia Jessup</b></sub></a><br /><a href="#content-lydiajessup" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/veroalfaro"><img src="https://avatars0.githubusercontent.com/u/11035999?v=4" width="100px;" alt=""/><br /><sub><b>veroalfaro</b></sub></a><br /><a href="#content-veroalfaro" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/sarahrothberg"><img src="https://avatars1.githubusercontent.com/u/2333512?v=4" width="100px;" alt=""/><br /><sub><b>ROTHBERG</b></sub></a><br /><a href="#content-sarahrothberg" title="Content">🖋</a> <a href="#ideas-sarahrothberg" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="http://www.shiffman.net"><img src="https://avatars0.githubusercontent.com/u/191758?v=4" width="100px;" alt=""/><br /><sub><b>Daniel Shiffman</b></sub></a><br /><a href="#projectManagement-shiffman" title="Project Management">📆</a></td>
     <td align="center"><a href="https://github.com/RiosITP"><img src="https://avatars2.githubusercontent.com/u/43545189?v=4" width="100px;" alt=""/><br /><sub><b>RiosITP</b></sub></a><br /><a href="#content-RiosITP" title="Content">🖋</a></td>
     <td align="center"><a href="http://matt-romein.com"><img src="https://avatars3.githubusercontent.com/u/7660881?v=4" width="100px;" alt=""/><br /><sub><b>Matt Romein</b></sub></a><br /><a href="#content-mromein" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/veroalfaro"><img src="https://avatars0.githubusercontent.com/u/11035999?v=4" width="100px;" alt=""/><br /><sub><b>veroalfaro</b></sub></a><br /><a href="#content-veroalfaro" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/lydiajessup"><img src="https://avatars3.githubusercontent.com/u/26204298?v=4" width="100px;" alt=""/><br /><sub><b>Lydia Jessup</b></sub></a><br /><a href="#content-lydiajessup" title="Content">🖋</a></td>
-    <td align="center"><a href="http://www.ashleyjanelewis.com"><img src="https://avatars3.githubusercontent.com/u/43127855?v=4" width="100px;" alt=""/><br /><sub><b>Ashley Jane Lewis</b></sub></a><br /><a href="#content-AshleyJaneLewis" title="Content">🖋</a></td>
   </tr>
   <tr>
     <td align="center"><a href="http://www.luisapereira.net"><img src="https://avatars3.githubusercontent.com/u/295879?v=4" width="100px;" alt=""/><br /><sub><b>Luisa Pereira</b></sub></a><br /><a href="#content-luisaph" title="Content">🖋</a></td>
