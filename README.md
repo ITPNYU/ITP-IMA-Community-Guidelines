@@ -5,7 +5,7 @@
 
 Welcome to the ITP/IMA Code of Conduct GitHub repository! All ITP/IMA community members are expected to thoroughly read and understand the Code of Conduct, so please make sure to visit each of the pages linked below in the index! 
 
-The ITP/IMA CoC is an evolving document that establishes and communicates the commitment of the ITP/IMA community to uphold a key set of standards and obligations that aim to make ITP/IMA an inclusive and welcoming environment.
+The ITP/IMA CoC is an evolving work-in-progress document that establishes and communicates the commitment of the ITP/IMA community to uphold a key set of standards and obligations that aim to make ITP/IMA an inclusive and welcoming environment.
 
 The CoC is open to revisions, clarifications, and reconsideration. For more information on how the Code of Conduct came to be, who was involved, and how you can get involved check out the [Code of Conduct Development](CONTRIBUTING.md).
 
