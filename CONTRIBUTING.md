@@ -24,4 +24,4 @@ In addition to the Code of Conduct itself, when considering the development of c
 * ⛑ [Community Stewards](community-stewards.md)
 * 🔗 [Attribution](attribution.md)
 * 📚 [Reading List](reading-list.md)
-* 📇 [Glossary]
+* 📇 [Glossary](glossary.md)

@@ -39,4 +39,4 @@ Please call 911 directly to report criminal activity (e.g. physical assault, sex
 * ⛑ [Community Stewards](community-stewards.md)
 * 🔗 [Attribution](attribution.md)
 * 📚 [Reading List](reading-list.md)
-* 📇 [Glossary]
+* 📇 [Glossary](glossary.md)

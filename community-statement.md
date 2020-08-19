@@ -44,4 +44,4 @@ With this understanding, it is our responsibility to center these groups when ho
 * ⛑ [Community Stewards](community-stewards.md)
 * 🔗 [Attribution](attribution.md)
 * 📚 [Reading List](reading-list.md)
-* 📇 [Glossary]
+* 📇 [Glossary](glossary.md)

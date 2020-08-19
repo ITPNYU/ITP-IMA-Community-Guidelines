@@ -9,7 +9,7 @@ The ITP/IMA CoC is an evolving work-in-progress document that establishes and co
 
 The CoC is open to revisions, clarifications, and reconsideration. For more information on how the Code of Conduct came to be, who was involved, and how you can get involved check out the [Code of Conduct Development](CONTRIBUTING.md).
 
-Many terms, concepts, and words in this Code of Conduct may be new or unfamiliar. Please refer to the [Glossary](glossary.md) for clarification of meaning. Certain words may be highlighted in the Code of Conduct with definitions in order to assist with comprehensibility.
+Many terms, concepts, and words in this Code of Conduct may be new or unfamiliar. Please refer to the [Glossary](glossary.md)(glossary.md) for clarification of meaning. Certain words may be highlighted in the Code of Conduct with definitions in order to assist with comprehensibility.
 
 ## Code of Conduct Index
 * 🌈 [Community Statement](community-statement.md)
@@ -20,7 +20,7 @@ Many terms, concepts, and words in this Code of Conduct may be new or unfamiliar
 * ⛑ [Community Stewards](community-stewards.md)
 * 🔗 [Attribution](attribution.md)
 * 📚 [Reading List](reading-list.md)
-* 📇 [Glossary]
+* 📇 [Glossary](glossary.md)(glossary.md)
 
 ## Contributors ✨
 
