@@ -20,7 +20,7 @@ Many terms, concepts, and words in this Code of Conduct may be new or unfamiliar
 * ⛑ [Community Stewards](community-stewards.md)
 * 🔗 [Attribution](attribution.md)
 * 📚 [Reading List](reading-list.md)
-* 📇 [Glossary](glossary.md)(glossary.md)
+* 📇 [Glossary](glossary.md)
 
 ## Contributors ✨
 
