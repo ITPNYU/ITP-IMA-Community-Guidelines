@@ -1,25 +1,19 @@
-# 💜 Mediation and Facilitation
+# 💜 Facilitation / Getting Help
 
-As we are responsible for upholding ethical standards of learning and making, we are also responsible for holding ourselves and each other accountable to ethical social and behavioral standards. Voicing concerns and addressing issues is part of how we foster safe spaces, embrace dialogue, and continue to grow and learn as a community.
+As we are individually responsible for upholding ethical standards of learning and making, we are also responsible for holding ourselves and each other accountable. Voicing concerns and addressing issues is part of how we keep each other safe, foster open communication, and strive to grow and learn as a community.  
 
-We recognize that code of conduct violations can take many forms, (sometimes people are unaware of their behavior). We recognize, violations can come from any community member to any community member (including but not limited to, student to student, faculty to student, student to faculty, faculty to faculty, staff to student, student to staff, faculty to staff, staff to faculty including faculty, staff, students, and guests), inside and/or outside of the classroom, in physical and digital spaces.
+We recognize that violations -- whether of this code of conduct, or of other institutional, personal, or professional standards -- can take many forms. Violations can come from any community member and be experienced by any community member (including but not limited to interactions between students and faculty or the reverse, faculty and faculty, staff and students, faculty and staff, and various interactions of our community with guests inside and/or outside of the classroom, in physical and digital spaces. 
 
-In the event of a code of conduct violation, unresolved dispute, or conflict, community members should voice concern or log issues report violations in the following ways.
+In the event of any dispute, conflict, or code of conduct violation, we encourage community members to log and record these issues in order to help us maintain a record of the challenges we face and help to insure appropriate action both in the short and long term. 
 
-- *Fill out the reporting form [Link to anonymous google form](https://forms.gle/P2x1KmwWXaXAc4Jw5)*
-- *Or contact [Incl. 3 contact email addresses]*
+To facilitate recording — whether anonymous or not -- within our own community, we have created the following form, and we encourage our community members to use it, regardless of whether they have sought resolution through other means:
 
-When a violation is reported, it will be reviewed by no fewer than three members of the Steering Committee which will take the following actions:
+- *[Fill out the reporting form](https://forms.gle/P2x1KmwWXaXAc4Jw5)*
 
-- *Reply to the violation to acknowledge receipt (unless anonymous) offering support and availability to discuss further.*
-- *When appropriate, mediate a conversation between parties.*
-- *When appropriate, request mediation or assistance from the Tisch Assistant Dean of Diversity’s office.*
-- *When appropriate, make a recommendation for resolution to ITP/IMA Chair.*
-- *In cases of anonymous reports we will log the issue and keep a record.*
+Individual facilitators from the Code of Conduct committee can also be contacted directly in this way: [contact info]
 
-Sometimes, participants violating the Code of Conduct are unaware that their behavior is harmful, and an open conversation clears things up to move forward.
+The above reporting process is not a replacement for the university’s bias response system and  community members should whenever possible make use of the university-wide services below:
 
-The above reporting process is not a replacement for the university’s bias response system and community members are encouraged to also make use of the following services:
 
 ## NYU Bias Response Line:
 
