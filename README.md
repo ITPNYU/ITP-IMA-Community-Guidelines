@@ -3,7 +3,7 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-Welcome to the ITP/IMA Code of Conduct GitHub repository! All ITP/IMA community members are expected to thoroughly read and understand the Code of Conduct, so please make sure to visit each of the pages linked below in the index! 
+Welcome to the ITP/IMA Code of Conduct! All ITP/IMA community members are expected to thoroughly read and understand the Code of Conduct, so please make sure to visit each of the pages linked below in the index! 
 
 The ITP/IMA CoC is an evolving work-in-progress document that establishes and communicates the commitment of the ITP/IMA community to uphold a key set of standards and obligations that aim to make ITP/IMA an inclusive and welcoming environment.
 
