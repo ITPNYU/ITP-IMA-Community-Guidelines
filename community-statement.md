@@ -28,7 +28,7 @@ We recognize that simply being part of the ITP/IMA community places us in a priv
 
 ## Technology
 
-We pledge to center creative and ethical uses of technology in our research, teaching, and making. We accept the claim that technology is a reflection of society, its histories, and its politics. We reject the claim that technology is neutral and acknowledge that every technology has the potential to do as much harm as good. We acknowledge that when technologies cause harm, the harm disproportionately affects Black, Brown, Indigenous, People of Color (BIPOC) [queer](glossary.md#queer), [trans](glossary.md#transgender), disabled, femme, low-income, survivors, and all other marginalized bodies and communities worldwide. 
+We pledge to center creative and ethical uses of technology in our research, teaching, and making. We accept the claim that technology is a reflection of society, its histories, and its politics. We reject the claim that technology is neutral and acknowledge that every technology has the potential to do as much harm as good. We acknowledge that when technologies cause harm, the harm disproportionately affects Black, Brown, Indigenous, People of Color (BIPOC), [queer](glossary.md#queer), [trans](glossary.md#transgender), disabled, femme, low-income, survivors, and all other marginalized bodies and communities worldwide. 
 
 With this understanding, it is our responsibility to center these groups when hosting, participating in, or developing events (e.g. workshops or meetings), materials (e.g. courses, syllabi, resources), technologies (software, hardware, tools, etc) and creative applications made at ITP /IMA (e.g. works of art, products, installations, experiments, etc).
 
