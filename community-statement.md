@@ -36,7 +36,7 @@ With this understanding, it is our responsibility to center these groups when ho
 <a name="ITPIMAFootnote">1</a>: This is an example of a footnote. Interactive Telecommuncations Program / Interactive Media Arts
 
 ## Code of Conduct Index
-* 🌈 [Community Statement](community-statement.md)
+* 🌎 [Community Statement](community-statement.md)
 * 🚧 [Development of Code of Conduct](CONTRIBUTING.md)
 * 🌈 [Rules of Play](rules-of-play.md)
 * 💜 [Mediation and Facilitation](mediation-facilitation.md)
