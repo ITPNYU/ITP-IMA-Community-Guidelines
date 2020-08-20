@@ -41,7 +41,7 @@ Any of the group members can also be reached individually by email, or collectiv
 **NOTE: The logging process is not a replacement for the university’s bias response system and community members should whenever possible make use of the university-wide services**
 
 ## Code of Conduct Index
-* 🌈 [Community Statement](community-statement.md)
+* 🌎 [Community Statement](community-statement.md)
 * 🚧 [Development of Code of Conduct](CONTRIBUTING.md)
 * 🌈 [Rules of Play](rules-of-play.md)
 * 💜 [Mediation and Facilitation](mediation-facilitation.md)
