@@ -9,11 +9,10 @@ The ITP/IMA CoC is an evolving **work-in-progress** document that establishes an
 
 The CoC is open to revisions, clarifications, and reconsideration. For more information on how the Code of Conduct came to be, who was involved, and how you can get involved check out the [Code of Conduct Development](CONTRIBUTING.md). For questions or suggestions, contact equitable@itp.nyu.edu.
 
-Many terms, concepts, and words in this Code of Conduct may be new or unfamiliar. Please refer to the [Glossary](glossary.md)for clarification of meaning. Certain words may be highlighted in the Code of Conduct with definitions in order to assist with comprehensibility.
-
+Many terms, concepts, and words in this Code of Conduct may be new or unfamiliar. Please refer to the [Glossary](glossary.md) for clarification of meaning. Certain words may be highlighted in the Code of Conduct with definitions in order to assist with comprehensibility.
 
 ## Code of Conduct Index
-* 🌈 [Community Statement](community-statement.md)
+* 🌎 [Community Statement](community-statement.md)
 * 🚧 [Development of Code of Conduct](CONTRIBUTING.md)
 * 🌈 [Rules of Play](rules-of-play.md)
 * 💜 [Mediation and Facilitation](mediation-facilitation.md)

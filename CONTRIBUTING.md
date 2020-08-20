@@ -16,7 +16,7 @@ We expect the Code of Conduct to be an evolving document. This evolution will ta
 In addition to the Code of Conduct itself, when considering the development of creative computing applications, we recommend a further [Reading List](reading-list.md) which highlights key texts on ethics and technology.
 
 ## Code of Conduct Index
-* 🌈 [Community Statement](community-statement.md)
+* 🌎 [Community Statement](community-statement.md)
 * 🚧 [Development of Code of Conduct](CONTRIBUTING.md)
 * 🌈 [Rules of Play](rules-of-play.md)
 * 💜 [Mediation and Facilitation](mediation-facilitation.md)
