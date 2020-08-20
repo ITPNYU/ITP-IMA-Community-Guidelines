@@ -4,18 +4,14 @@ As we are individually responsible for upholding ethical standards of learning a
 
 We recognize that violations -- whether of this code of conduct, or of other institutional, personal, or professional standards -- can take many forms. Violations can come from any community member and be experienced by any community member (including but not limited to interactions between students and faculty or the reverse, faculty and faculty, staff and students, faculty and staff, and various interactions of our community with guests inside and/or outside of the classroom, in physical and digital spaces. 
 
-In the event of any dispute, conflict, or code of conduct violation, we encourage community members to log and record these issues in order to help us maintain a record of the challenges we face and help to insure appropriate action both in the short and long term. 
+In the event of any unresolved dispute, conflict, or code of conduct violation, we encourage community members to take any or all of the following actions: 
 
-To facilitate recording — whether anonymous or not -- within our own community, we have created the following form, and we encourage our community members to use it, regardless of whether they have sought resolution through other means:
+## Report to the NYU Bias Response Line:
+The NYU Bias Response Line provides a mechanism through which members of the NYU community can share or report experiences and concerns of bias, discrimination, or harassing behavior that may occur within our community.
 
-- *[Fill out the reporting form](https://forms.gle/P2x1KmwWXaXAc4Jw5)*
+Experienced administrators in the Office of Equal Opportunity (OEO) receive and assess reports, and then help facilitate responses, which may include referral to another University school or unit, or investigation if warranted according to the University's existing Non-Discrimination and Anti-Harassment Policy.
 
-Individual facilitators from the Code of Conduct committee can also be contacted directly in this way: [contact info]
-
-The above reporting process is not a replacement for the university’s bias response system and  community members should whenever possible make use of the university-wide services below:
-
-
-## NYU Bias Response Line:
+The Bias Response Line is designed to enable the University to provide an open forum that helps to ensure that our community is equitable and inclusive.
 
 - [https://www.nyu.edu/about/policies-guidelines-compliance/equal-opportunity/bias-response.html](https://www.nyu.edu/about/policies-guidelines-compliance/equal-opportunity/bias-response.html)
 - Phone: 212-998-2277
@@ -29,6 +25,20 @@ The Wellness Exchange is your mental health resource at NYU. Call the **24-hour 
 ## Emergency
 
 Please call 911 directly to report criminal activity (e.g. physical assault, sexual assault, theft), or to report a dangerous physical situation (e.g. fire, serious injury, fear that someone will hurt themselves or someone else).
+
+## Log an Issue with ITP / IMA Equitability Group
+In order to help us maintain a record of the challenges we face and help to insure appropriate action both in the short and long term. We encourage our community members to use the following form regardless of whether they have sought resolution elsewhere.
+
+- *[Log the Issue Here](https://forms.gle/P2x1KmwWXaXAc4Jw5)*
+
+Form submissions will be read by the following members from the ITP/IMA Equitability group:
+- Luisa Pereira, David Rios, Matt Romein, Sarah Rothberg, Dan Shiffman, Blair Simmons
+
+In cases where name and email are provided, someone from the group will reach out to continue the conversation and assist with next steps.  Anonymous submissions can be logged but unfortunately can not be responded to.
+
+Any of the group members can also be reached individually by email, or collectively at: equitable@itp.nyu.edu
+
+**NOTE: The logging process is not a replacement for the university’s bias response system and community members should whenever possible make use of the university-wide services**
 
 ## Code of Conduct Index
 * 🌈 [Community Statement](community-statement.md)
