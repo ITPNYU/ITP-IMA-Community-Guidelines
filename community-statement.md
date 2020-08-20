@@ -1,4 +1,4 @@
-# Community Statement
+# 🌎 Community Statement
 
 > *We live in a fractured world where communities are burdened by differences - so what we ask of you is nothing short of miraculous.*<br/> — Red Burns
 
