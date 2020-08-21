@@ -1,4 +1,4 @@
-# 💜 Facilitation / Getting Help
+# 💜 Facilitation and Getting Help
 
 As we are individually responsible for upholding ethical standards of learning and making, we are also responsible for holding ourselves and each other accountable. Voicing concerns and addressing issues is part of how we keep each other safe, foster open communication, and strive to grow and learn as a community.  
 
@@ -44,7 +44,7 @@ Any of the group members can also be reached individually by email, or collectiv
 * 🌎 [Community Statement](community-statement.md)
 * 🚧 [Development of Code of Conduct](CONTRIBUTING.md)
 * 🌈 [Rules of Play](rules-of-play.md)
-* 💜 [Mediation and Facilitation](mediation-facilitation.md)
+* 💜 [Facilitation and Getting Help](facilitation.md)
 * 💻 [Usage of Technology](usage-of-technology.md)
 * ⛑ [Community Stewards](community-stewards.md)
 * 🔗 [Attribution](attribution.md)

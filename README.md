@@ -15,7 +15,7 @@ Many terms, concepts, and words in this Code of Conduct may be new or unfamiliar
 * 🌎 [Community Statement](community-statement.md)
 * 🚧 [Development of Code of Conduct](CONTRIBUTING.md)
 * 🌈 [Rules of Play](rules-of-play.md)
-* 💜 [Mediation and Facilitation](mediation-facilitation.md)
+* 💜 [Facilitation and Getting Help](facilitation.md)
 * 💻 [Usage of Technology](usage-of-technology.md)
 * ⛑ [Community Stewards](community-stewards.md)
 * 🔗 [Attribution](attribution.md)
