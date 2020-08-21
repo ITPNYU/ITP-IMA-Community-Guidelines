@@ -12,7 +12,7 @@ Ashley Jane Lewis, Lydia Jessup, Verónica Alfaro Arias, Mary Notari
 
 ## ITP/IMA Equitability Working Group
 
-Blair Simmons, Daniel Shiffman, David Rios
+Blair Simmons, Daniel Shiffman, David Rios, Sarah Rothberg, Matt Romein, Luisa Pereira
 
 ## Code of Conduct Index
 * 🌎 [Community Statement](community-statement.md)
