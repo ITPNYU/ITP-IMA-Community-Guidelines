@@ -19,7 +19,7 @@ In addition to the Code of Conduct itself, when considering the development of c
 * 🌎 [Community Statement](community-statement.md)
 * 🚧 [Development of Code of Conduct](CONTRIBUTING.md)
 * 🌈 [Rules of Play](rules-of-play.md)
-* 💜 [Mediation and Facilitation](mediation-facilitation.md)
+* 💜 [Facilitation and Getting Help](facilitation.md)
 * 💻 [Usage of Technology](usage-of-technology.md)
 * ⛑ [Community Stewards](community-stewards.md)
 * 🔗 [Attribution](attribution.md)
