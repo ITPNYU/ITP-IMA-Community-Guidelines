@@ -8,11 +8,11 @@ This year’s stewards are:
 
 ## Tech & Society
 
-Ashley Jane Lewis, Lydia Jessup, Verónica Alfaro Arias, Mary Notari
+Ashley Jane Lewis, Lydia Jessup, Mary Notari, Verónica Alfaro Arias
 
 ## ITP/IMA Equitability Working Group
 
-Blair Simmons, Daniel Shiffman, David Rios
+Blair Simmons, Daniel Shiffman, David Rios, Luisa Pereira, Matt Romein, Sarah Rothberg
 
 ## Code of Conduct Index
 * 🌎 [Community Statement](community-statement.md)
