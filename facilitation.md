@@ -18,6 +18,14 @@ The Bias Response Line is designed to enable the University to provide an open f
 - Email: [bias.response@nyu.edu](mailto:bias.response@nyu.edu)
 - Online Form: [https://nyu.qualtrics.com/SE/?SID=SV_55x3HRqPYDsI0uN](https://nyu.qualtrics.com/SE/?SID=SV_55x3HRqPYDsI0uN)
 
+## Sexual Misconduct and Title IX
+
+Tisch School of the Arts is dedicated to providing its students with a learning environment that is rigorous, respectful, supportive and nurturing so that they can engage in the free exchange of ideas and commit themselves fully to the study of their discipline. To that end Tisch is committed to enforcing University policies prohibiting all forms of sexual misconduct as well as discrimination on the basis of sex and gender. 
+
+Detailed information regarding these policies and the resources that are available to students through the Title IX office can be found by using the following links: 
+- [Title IX at NYU](https://www.nyu.edu/about/policies-guidelines-compliance/equal-opportunity/title9.html)
+- [Sexual Misconduct Rights and Resources Quick Reference](https://www.nyu.edu/content/dam/nyu/equalOpp/documents/Quick%20Ref%20-%20Rights%20and%20Resources%20-%20Responding%20to%20Sexual%20Misconduct%20v.20170417.pdf)
+
 ## The Wellness Exchange
 
 The Wellness Exchange is your mental health resource at NYU. Call the **24-hour hotline at (212) 443-9999** or chat via the Wellness Exchange app anytime to speak with a certified counselor about any day-to-day challenges or health concerns.
