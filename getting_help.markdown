@@ -1,3 +1,9 @@
+---
+layout: getting-help
+title: Code of Conduct
+permalink: /getting_help
+---
+
 # 💜 Facilitation and Getting Help
 
 As we are individually responsible for upholding ethical standards of learning and making, we are also responsible for holding ourselves and each other accountable. Voicing concerns and addressing issues is part of how we keep each other safe, foster open communication, and strive to grow and learn as a community.  
@@ -20,7 +26,7 @@ The Bias Response Line is designed to enable the University to provide an open f
 
 ## Sexual Misconduct and Title IX
 
-Tisch School of the Arts is dedicated to providing its students with a learning environment that is rigorous, respectful, supportive and nurturing so that they can engage in the free exchange of ideas and commit themselves fully to the study of their discipline. To that end Tisch is committed to enforcing University policies prohibiting all forms of sexual misconduct as well as discrimination on the basis of sex and gender. 
+Tisch School of the Arts is dedicated to providing its students with a learning environment that is rigorous, respectful, supportive and nurturing so that they can engage in the free exchange of ideas and commit themselves fully to the study of their discipline. To that end Tisch is committed to enforcing University policies prohibiting all forms of sexual misconduct as well as discrimination on the basis of sex and gender. 
 
 Detailed information regarding these policies and the resources that are available to students through the Title IX office can be found by using the following links: 
 - [Title IX at NYU](https://www.nyu.edu/about/policies-guidelines-compliance/equal-opportunity/title9.html)
@@ -47,14 +53,3 @@ In cases where name and email are provided, someone from the group will reach ou
 Any of the group members can also be reached individually by email, or collectively at: equitable@itp.nyu.edu
 
 **NOTE: The logging process is not a replacement for the university’s bias response system and community members should whenever possible make use of the university-wide services**
-
-## Code of Conduct Index
-* 🌎 [Community Statement](community-statement.md)
-* 🚧 [Development of Code of Conduct](CONTRIBUTING.md)
-* 🌈 [Rules of Play](rules-of-play.md)
-* 💜 [Facilitation and Getting Help](facilitation.md)
-* 💻 [Usage of Technology](usage-of-technology.md)
-* ⛑ [Community Stewards](community-stewards.md)
-* 🔗 [Attribution](attribution.md)
-* 📚 [Reading List](reading-list.md)
-* 📇 [Glossary](glossary.md)
