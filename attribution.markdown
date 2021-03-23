@@ -21,7 +21,7 @@ In addition to the work done by community members in developing the Code of Cond
     </a> -->
 </div>
 <section class="contribution-section">
-    <button class="contribution-button">Propose a Change</button>
+    <button class="contribution-button"><a href="" class="contribution-text">Propose a Change </a></button>
     <h1 class="contribution-text">Get involved, report and issue, participate into this document and the
         Code of Conduct community.</h1>
 </section>
