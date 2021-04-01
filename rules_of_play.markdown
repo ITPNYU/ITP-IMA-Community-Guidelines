@@ -1,10 +1,17 @@
-# 🌈 Rules of Play
+---
+layout: document-code-of-conduct
+title: Code of Conduct
+permalink: /rules_of_play
+---
+
+## <a name="rules_of_play">🌈 Rules of Play</a>
 
 > *Our signature is collaboration - no competition. Collaboration will jar you, provoke you, confront you, offer you different ways of looking at the world.*<br/> — Red Burns
 
 The Rules of Play represents the ITP/IMA community’s attempt to develop an evolving collective understanding of what it means to work together and use technology creatively, appropriately, ethically, and critically. As members of this community we hold ourselves to adhering to these guidelines, acknowledging when we have failed to do so, and working to address the impact of our actions.
 
-## Aspirational
+## <a name="Aspirational">Aspirational</a>
+
 
 *These are ideals and behaviors we pledge to hold ourselves to. We will work to change our behavior when we have failed to do so.*
 
@@ -14,7 +21,8 @@ The Rules of Play represents the ITP/IMA community’s attempt to develop an evo
 - Be respectful. Disagreement is not an opportunity to attack someone else's thoughts or opinions. Although views may differ, remember to approach every situation with patience and care.
 - Everybody’s starting point is not the same. People come to ITP/IMA with different educations, identities, skills, finances, histories, and more. Maintain an awareness of where you are coming from and how that shapes your beliefs, how that affects your time, and what you have access to.
 
-## Practical
+## <a name="Practical">Practical</a>
+
 
 *These are courtesies and etiquettes that may not have occurred to us because the world changes so quickly.*
 
@@ -25,7 +33,8 @@ The Rules of Play represents the ITP/IMA community’s attempt to develop an evo
 - Coordinate and collaborate. There will be times when space and equipment are in short supply and needed by multiple people. Work together to plan how those resources can be allocated and shared so no one person is monopolizing the resource.
 - Be responsible with your use of materials. Consider: environmentally sustainable materials, reused materials, and materials that do not pose risk to those around you who may have sensitivities to allergies, scents, etc.  
 
-## Unacceptable
+## <a name="Unacceptable">Unacceptable</a>
+
 
 *These behaviors are completely unacceptable within our community and are grounds for disciplinary actions by NYU.*
 
@@ -36,7 +45,7 @@ The Rules of Play represents the ITP/IMA community’s attempt to develop an evo
 - Stalking or following
 - All forms of harassment, physical or digital
 
-## Responsibilities and Commitments
+## <a name="Responsibilities_and_Commitments">Responsibilities and Commitments</a>
 
 ### Students
 
@@ -54,13 +63,14 @@ The Rules of Play represents the ITP/IMA community’s attempt to develop an evo
 - Maintain a diverse representation of identities and experiences within class syllabi (projects, resources, guests).
 - Structure classes and environments in order to allow for multiple modes of participation.
 
-## Code of Conduct Index
-* 🌎 [Community Statement](community-statement.md)
-* 🚧 [Development of Code of Conduct](CONTRIBUTING.md)
-* 🌈 [Rules of Play](rules-of-play.md)
-* 💜 [Facilitation and Getting Help](facilitation.md)
-* 💻 [Usage of Technology](usage-of-technology.md)
-* ⛑ [Community Stewards](community-stewards.md)
-* 🔗 [Attribution](attribution.md)
-* 📚 [Reading List](reading-list.md)
-* 📇 [Glossary](glossary.md)
+<!-- Links buttons for next section in Code of Conduct -->
+<div class="next-previous-div">
+    <a class="next-previous-links" href="./community_statement">
+        << Previous</a> <a class="next-previous-links" href="./usage_of_technology">Next >>
+    </a>
+</div>
+<section class="contribution-section">
+    <button class="contribution-button">Propose a Change</button>
+    <h1 class="contribution-text">Get involved, report and issue, participate into this document and the
+        Code of Conduct community.</h1>
+</section>

@@ -1,0 +1,30 @@
+---
+layout: header-footer
+---
+
+<div class="minimal-page-style">
+
+    <header class="page-header"></header>
+
+    <div id="glossary-intro">
+        <h1>📇 Glossary</h1>
+        <p>A full glossary of terminology can be found from <a
+                href="https://www.nyu.edu/life/global-inclusion-and-diversity/learning-and-development/toolkits/glossary.html">NYU's
+                Office for Global Inclusion and Diversity.</a> The terms below are a work-in-progress list of terms
+            specifically in this document with definitions written by the ITP/IMA community.</p>
+    </div>
+
+    <div class="wrap-collabsible"> <input id="collapsible" class="toggle" type="checkbox"> <label for="collapsible"
+            class="lbl-toggle">View Details</label>
+        <div class="collapsible-content">
+            <div class="content-inner">
+                <p class="last-update"><b>Last Update: </b>{{ page.last-update }}</p>
+                <p class="contributors"><b>Contributors: </b>{{ page.contributors }}</p>
+                <a href="">Report an Issue</a>
+            </div>
+        </div>
+    </div>
+
+    {{ content }}
+
+</div>
