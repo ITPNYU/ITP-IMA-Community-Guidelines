@@ -77,11 +77,21 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "themiscadiz",
+      "name": "Themis",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6019802?v=4",
+      "profile": "https://themis.design",
+      "contributions": [
+        "code",
+        "design"
+      ]
     }
   ],
   "contributorsPerLine": 7,
   "projectName": "ITP-IMA-Code-of-Conduct",
-  "projectOwner": "shiffman",
+  "projectOwner": "ITPNYU",
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true
