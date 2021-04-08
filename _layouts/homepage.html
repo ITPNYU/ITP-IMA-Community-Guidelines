@@ -4,45 +4,49 @@ layout: header-footer
 
 <!-- Header -->
 <header class="cover-section">
-    <div class="img-cover">{{ page.cover-image }}</div>
-    <div class="header-text">
-        <h3>{{ page.header-text-h3 }}</h3>
-        <h1>{{ page.header-text-h1 }}</h1>
-        <p><b>{{ page.header-text-p }}</b></p>
+    <div class="sub-cover-section">
+        <div class="img-cover">
+            <img src="assets/sun-04.png" alt="">
+        </div>
+        <div class="header-text">
+            <h3>{{ page.header-text-h3 }}</h3>
+            <h1>{{ page.header-text-h1 }}</h1>
+            <p>{{ page.header-text-p }}</p>
+        </div>
+        <button class="home-button"><a href="./community_statement" class="home-button-text">
+                {{ page.header-text-button }}
+            </a></button>
     </div>
-    <button class="home-button"><a href="./community_statement">
-            <h3 class="home-button-text">Read the Code of Conduct</h3>
-        </a></button>
 </header>
 
 <!-- Introduction -->
 <div class="introduction-text-section">
-    <div class="eliminate-skew">
-        {{ content }}
-    </div>
-
+    {{ content }}
 </div>
 
 
 <!-- Other Groups and Community -->
-<hr>
 <div class="other-groups-section">
 
     <div class="groups">
-        <div class="img-group">
-            <img src="/images/placeHolder1.jpg" alt="Girl in a jacket">
-        </div>
-        <h2 class="name-group">{{ page.group-h-1 }}</h2>
-        <p class="info-group">{{ page.group-p-1 }}</p>
+        <a href="" target="_blank">
+            <div class="img-group">
+                <img src="assets/other1.png" alt="">
+            </div>
+            <h2 class="name-group">{{ page.group-h-1 }}</h2>
+            <p class="info-group">{{ page.group-p-1 }}</p>
+        </a>
     </div>
     <div class="groups">
-        <div class="img-group"><img src="/images/placeHolder1.jpg" alt="Girl in a jacket"></div>
-        <h2 class="name-group">{{ page.group-h-2 }}</h2>
-        <p class="info-group">{{ page.group-p-2 }}</p>
+        <a href="https://itp.nyu.edu/groups/equitable/" target="_blank">
+            <div class="img-group"><img src="assets/other2.png" alt=""></div>
+            <h2 class="name-group">{{ page.group-h-2 }}</h2>
+            <p class="info-group">{{ page.group-p-2 }}</p>
+        </a>
     </div>
     <div class="groups">
-        <a href="https://itp-techandsociety.github.io/online/">
-            <div class="img-group"><img src="/images/placeHolder1.jpg" alt="Girl in a jacket"></div>
+        <a href="https://itp-techandsociety.github.io/online/" target="_blank">
+            <div class="img-group"><img src="assets/other3.png" alt=""></div>
             <h2 class="name-group">{{ page.group-h-3 }}</h2>
             <p class="info-group">{{ page.group-p-3 }}</p>
         </a>
@@ -51,7 +55,7 @@ layout: header-footer
 
 
 <!-- Reading List -->
-<hr>
+<!-- <hr> -->
 
 <div class="reading-list-section">
     <div class="reading-list-text">

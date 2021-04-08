@@ -25,12 +25,12 @@ In addition to the Code of Conduct itself, when considering the development of c
 <!-- Links buttons for next section in Code of Conduct -->
 <div class="next-previous-div">
     <a class="next-previous-links" href="./usage_of_technology">
-        << Previous</a> 
-        <a class="next-previous-links" href="./attribution">Next >>
+        ← Previous</a> 
+        <a class="next-previous-links" href="./attribution">Next →
     </a>
 </div>
 <section class="contribution-section">
-    <button class="contribution-button">Propose a Change</button>
+    <button class="contribution-button"><a href="" class="contribution-text">Propose a Change</a></button>
     <h1 class="contribution-text">Get involved, report and issue, participate into this document and the
         Code of Conduct community.</h1>
 </section>

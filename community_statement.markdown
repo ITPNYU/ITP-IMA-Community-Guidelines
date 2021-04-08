@@ -40,12 +40,12 @@ With this understanding, it is our responsibility to center these groups when ho
 <!-- Links buttons for next section in Code of Conduct -->
 <div class="next-previous-div">
     <a class="next-previous-links" href="#community_statement">
-        ^ Top</a> 
-        <a class="next-previous-links" href="./rules_of_play">Next >>
+        ↑ Top</a> 
+        <a class="next-previous-links" href="./rules_of_play">Next →
     </a>
 </div>
 <section class="contribution-section">
-    <button class="contribution-button">Propose a Change</button>
+    <button class="contribution-button"><a href="" class="contribution-text">Propose a Change</a></button>
     <h1 class="contribution-text">Get involved, report and issue, participate into this document and the
         Code of Conduct community.</h1>
 </section>
