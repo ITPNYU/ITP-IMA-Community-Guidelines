@@ -4,12 +4,13 @@
 
 layout: homepage
 title: ITP/IMA Code of Conduct
-author: "Themis"
+author: "ITP/IMA Community. First version build by Themis Garcia"
 # permalink: /code-of-conduct
 
 header-text-h3: "Welcome to the ITP/IMA"
 header-text-h1: "Code of Conduct"
 header-text-p: "All ITP/IMA community members are expected to thoroughly read and understand."
+header-text-button: "Read the Code of Conduct"
 
 group-h-1: Workshops
 group-p-1: Access to the Code of Conduct's calendar of workshops and events.

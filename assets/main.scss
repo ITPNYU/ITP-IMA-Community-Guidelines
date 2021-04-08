@@ -98,6 +98,36 @@ h5{
 font-weight: 700;
 }
 
+.header-text h1{
+    font-weight: 700;
+    font-size: 2rem;
+}
+.header-text h3{
+    font-weight: 600;
+    color: #111;
+}
+.header-text p{
+    font-weight: 400;
+    padding: 0rem 2rem;
+    margin: 0rem 6rem;
+    // background-color: indianred;
+}
+@media screen and (max-width: 1200px) {
+    .header-text p{
+        font-weight: 400;
+        padding: 0rem 1rem;
+        margin: 0rem 1rem;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .header-text p{
+        font-weight: 400;
+        padding: 0rem 1rem;
+        margin: 0rem 1rem;
+    }
+}
+
 
 /* ============
 3. components
@@ -160,12 +190,14 @@ button:focus{
     -ms-transition: all .2s ease; 
     transition: all .2s ease; 
 }
+
 .home-button a{text-decoration: none;}
 
 .home-button:hover{ 
     box-shadow: -5px 5px 10px  rgb(231, 231, 231); 
     transform: scale(1.15); 
     background: #58f49f;
+    // background-color: #FFDA40;
     // border: 2px solid #111;
 }
 
@@ -186,10 +218,15 @@ button:focus{
 
 @media screen and (max-width: 500px) {
     .home-button{
-        padding: 1.5rem 2rem;
+        padding: 1.5rem 1rem;
     } 
     .home-button-text{
-        padding: 1.5rem 2rem;
+        padding: 1.5rem .50rem;
+    }
+    .contribution-text{
+        text-align: center; 
+        padding: 1.5rem 1rem;
+        // background-color: #5896f4;
     }
 }
 
@@ -358,7 +395,8 @@ mark{
 
 footer{
     margin-top: 5rem;
-    background-color: #EFEFEF; 
+    background-color: #f5f5f5; 
+    // background-color: #E8ECD4;
     position: relative; 
     bottom:0px; 
     right: 0px; 
@@ -396,6 +434,17 @@ footer{
         margin: 4rem 1rem; 
     }
 }
+
+@media screen and (max-width: 500px) { 
+    .footer-sub-sections{
+        margin: 1rem;
+    }
+    .logo_image { 
+        width: 100px; 
+        height: 90px;
+        // height: auto;
+    }
+}
     
 
 /* ============
@@ -406,8 +455,12 @@ footer{
     position: absolute;
     top:0px;
     left: 0px;
-    z-index: -1;
+    z-index: 100;
     margin: 0px;
+}
+.img-cover img{
+    width: 100px;
+    height: auto;
 }
 
 .cover-section{
@@ -416,8 +469,30 @@ footer{
     flex-direction: column; 
     align-items: center;
     text-align: center; 
-    padding: 4rem 0rem; 
+    // padding: 4rem 0rem; 
+    margin: 4rem 8rem;
+    border-radius: 20px;
+    border: solid;
+    border: 3px solid #111111;
+    // background-color: #FFDA40;
+    background-color: #5896f4;
+
+    // background: rgb(145,127,252);
+    // background: linear-gradient(270deg, rgba(145,127,252,0) 0%, rgba(134,148,237,0) 0%, rgba(145,127,252,0.2511379551820728) 11%, rgba(84,247,166,0.654499299719888) 51%, rgba(134,148,237,0.16430322128851538) 92%);
+
+
 }
+
+.sub-cover-section{
+    // margin: 2rem 1rem;
+    margin: 2rem;
+    padding: 2rem; 
+    border-radius: 20px;
+    border: solid;
+    border: 2px solid #111111;
+    background-color: #FFFFFF;
+}
+
 
 .introduction-text-section{ 
     max-width: 800px;
@@ -429,7 +504,8 @@ footer{
 
 
 .introduction-text-section{
-    border-radius: 20px; border: 1px solid #111111;
+    border-radius: 20px; 
+    border: 3px solid #111111;
     background-size: 30px 30px;
     background-image: radial-gradient(circle, #A5FFD9 1.5px, rgba(0, 0, 0, 0) 1px);
 }
@@ -450,7 +526,8 @@ footer{
     // border: 1px solid transparent;
     box-shadow: -10px 10px #111; // #0BA687; 
     transition: .1s; 
-    border-radius: 5px; border: 1px solid #111111;
+    border-radius: 5px; 
+    border: 2px solid #111111;
 }
 .groups:hover{
     transition: .1s; 
@@ -468,6 +545,20 @@ footer{
 .books{margin-top: 2.5rem;}
 @media screen and (max-width: 1200px) {.groups{width:30%} }
 @media screen and (max-width: 800px) { 
+
+.cover-section{
+    margin: 1rem 0rem;
+    border: hidden;
+    border: 1px solid #111111;
+
+
+}
+.sub-cover-section{
+    margin: 1rem 0rem;
+    padding: 0rem; 
+    border: hidden;
+    border: 1px solid #111111;
+}
 .introduction-text-section { 
 // max-width: -webkit-calc(800px - (30px)); 
 // max-width: calc(800px - (30px)); 
@@ -503,8 +594,18 @@ padding-left: 15px;
 
 .books-list{
     width: 100%; 
-    padding: 0rem; }
+    padding: 0rem; 
 }
+
+.img-cover{
+    visibility: hidden;
+}
+.img-cover img{
+    visibility: hidden;
+}
+}
+
+
 
 /* ============
 7. code-of-conduct
@@ -550,6 +651,14 @@ padding-left: 15px;
     } 
 }
 
+@media screen and (max-width: 500px) { 
+    .content-wrapper { 
+        width: 90%;
+        padding-right: 5px; 
+        padding-left: 5px;     
+    } 
+}
+
 @media screen and (max-width: 950px) {
     .coc-page-header{
         margin-top: 1rem;
@@ -582,9 +691,9 @@ padding-left: 15px;
 /* coc side menu */
 .side-menu  { 
     background-color: #FFFFFF; 
-    border: 1px solid #111111; 
+    border: 2px solid #111111; 
     border-radius: 5px; 
-    // box-shadow: -10px 10px #58f49f; // #0BA687; 
+    // box-shadow: -10px 10px #111; // #0BA687; 
     max-width: 350px; 
     max-width: -webkit-calc(350px - (30px * 2)); 
     max-width: calc(350px - (30px * 2)); 
@@ -646,6 +755,7 @@ padding-left: 15px;
     // color: #111111; 
     text-decoration: underline;
 }
+
 
 @media screen and (max-width: 500px) { 
     .side-page-link { 
@@ -729,18 +839,21 @@ padding-left: 15px;
         margin-right: 0;
     } 
 
-    .side-menu-icon {position: relative; 
+    .side-menu-icon {
+        position: relative; 
         border: 2px solid #111111;
-        box-shadow: -10px 10px  #58f49f; //#0BA687;
+        // box-shadow: -10px 10px  #111; // #58f49f; //#0BA687;
         border-radius: 5px; padding: .50rem 6rem .50rem  .50rem;
+        // margin-bottom: 0rem;
+        margin: 0rem 1rem 1rem 1rem;
     }
 
     .side-menu-icon:hover{ 
-        box-shadow: 0px 0px  #58f49f; //#0BA687;
+        box-shadow: 0px 0px #111; // #58f49f; //#0BA687;
         transition: .50s;
     }
     .side-menu-icon:active{ 
-        background-color: #58f49f;
+        background-color:  #111; //#58f49f;
     }
     .content-nav { 
         position: absolute; 
@@ -748,6 +861,13 @@ padding-left: 15px;
         left: 50px; 
     }
 
+}
+
+@media screen and (max-width: 400px) { 
+    .side-menu-icon {
+        box-shadow: -10px 10px  #111; // #58f49f; //#0BA687;
+        margin: 0rem 1rem 1rem 1rem;
+    }
 }
 
 
@@ -761,11 +881,7 @@ padding-left: 15px;
     float:right; 
     margin-top: 1rem;
 }
-@media screen and (max-width: 600px) {
-    .top-contribution{
- 
-    }
-}
+
 
 @media screen and (max-width: 400px) {
     .top-contribution{
@@ -781,17 +897,25 @@ padding-left: 15px;
     margin: 20px; 
     margin-top: 4rem;
 }
+
+
 .next-previous-links{ 
     padding: 10px 20px; 
     border: 2px dashed #111; 
-    border-radius: 5rem; 
+    border-radius: 2rem; 
+    // border-radius: 7px;
     box-shadow: -5px 5px  #111;
 }
+
+// @media screen and (max-width: 400px) {
+ 
+// }
 .next-previous-links:hover{ 
     // box-shadow: -5px 5px  #58f49f;
     box-shadow: 0px 0px  #111;
-    // background-color: #58f49f;
     background-color: #5896f4;
+    // background-color: #111;
+    // color: #EFEFEF;
     /* box-shadow: -5px -5px 5px #FFFFFF, 5px 5px 5px #c4c4c4;  */
     transition: .50s; 
     text-decoration: none; 
@@ -911,6 +1035,9 @@ input[type='checkbox'] {
 } 
 .collapsible-content p{ 
     margin: 0px; 
+    padding: 10px;
+    font-weight: 300;
+    font-size: .90rem;
 }
 
 @media screen and (max-width: 800px) {
