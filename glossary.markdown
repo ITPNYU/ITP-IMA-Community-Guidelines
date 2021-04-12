@@ -3,8 +3,9 @@ layout: glossary
 title: Code of Conduct
 permalink: /glossary
 
-last-update: Dec 11, 2020.  
-contributor: ThemisTest
+last-update: Summer 2020
+# previous contributors: ITP/IMA Equitability Working Group, Tech & Society
+contributor: ITP/IMA Equitability Working Group, Tech & Society
 ---
 
 ## Terms

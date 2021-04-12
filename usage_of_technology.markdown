@@ -29,8 +29,3 @@ What follows are our guiding principles. As always dialogue and communication ar
         <a class="next-previous-links" href="./development">Next →
     </a>
 </div>
-<section class="contribution-section">
-    <button class="contribution-button"><a href="" class="contribution-text">Propose a Change</a></button>
-    <h1 class="contribution-text">Get involved, report and issue, participate into this document and the
-        Code of Conduct community.</h1>
-</section>

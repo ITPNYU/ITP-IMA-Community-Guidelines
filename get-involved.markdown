@@ -18,13 +18,13 @@ We encourage any level of contribution for improvement: participation in discuss
 <br>
 <br>
 
-## ✏️ Reporting an Issue
+## ✏️ Give Feedback
 As a work-in-progress document, you can contribute by giving feedback or open a discussion by reporting an issue. Remember to check open issues in case someone else already reports it. 
 
 More about **[Issues](https://docs.github.com/en/github/managing-your-work-on-github/about-issues)**
 
 <div class="next-previous-div">
-    <a class="next-previous-links" href="https://github.com/ITPNYU/ITP-IMA-Code-of-Conduct/issues" target="_blank">Report an Issue</a> 
+    <a class="next-previous-links" href="https://github.com/ITPNYU/ITP-IMA-Code-of-Conduct/issues" target="_blank">Give Feedback</a> 
 </div>
 
 <br>

@@ -69,8 +69,3 @@ The Rules of Play represents the ITP/IMA community’s attempt to develop an evo
         ← Previous</a> <a class="next-previous-links" href="./usage_of_technology">Next →
     </a>
 </div>
-<section class="contribution-section">
-    <button class="contribution-button"><a href="" class="contribution-text">Propose a Change</a></button>
-    <h1 class="contribution-text">Get involved, report and issue, participate into this document and the
-        Code of Conduct community.</h1>
-</section>
