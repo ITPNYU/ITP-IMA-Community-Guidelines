@@ -40,16 +40,10 @@ The Wellness Exchange is your mental health resource at NYU. Call the **24-hour 
 
 Please call 911 directly to report criminal activity (e.g. physical assault, sexual assault, theft), or to report a dangerous physical situation (e.g. fire, serious injury, fear that someone will hurt themselves or someone else).
 
-## Log an Issue with ITP / IMA Equitability Group
-In order to help us maintain a record of the challenges we face and help to insure appropriate action both in the short and long term. We encourage our community members to use the following form regardless of whether they have sought resolution elsewhere.
-
-- *[Log the Issue Here](https://forms.gle/P2x1KmwWXaXAc4Jw5)*
-
-Form submissions will be read by the following members from the ITP/IMA Equitability group:
+## Reach out to ITP / IMA Equitable Working Group
+Our community members can also reach out to staff members of the Equitable Working Group:
 - Luisa Pereira, David Rios, Matt Romein, Sarah Rothberg, Dan Shiffman, Blair Simmons
 
-In cases where name and email are provided, someone from the group will reach out to continue the conversation and assist with next steps.  Anonymous submissions can be logged but unfortunately can not be responded to.
+Any of the group members can be reached individually by email, or collectively at: equitable@itp.nyu.edu
 
-Any of the group members can also be reached individually by email, or collectively at: equitable@itp.nyu.edu
-
-**NOTE: The logging process is not a replacement for the university’s bias response system and community members should whenever possible make use of the university-wide services**
+**NOTE: Reaching out to ITP / IMA Equitable Working Group is not a replacement for university’s bias response system and community members should whenever possible make use of the university-wide services**
