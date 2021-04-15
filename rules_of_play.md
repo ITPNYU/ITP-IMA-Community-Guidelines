@@ -2,6 +2,15 @@
 layout: document-code-of-conduct
 title: Code of Conduct
 permalink: /rules_of_play
+
+edit-markdown-link: https://github.com/ITPNYU/ITP-IMA-Code-of-Conduct/edit/main/rules_of_play.markdown
+
+right-button-text: Next →
+right-button-link: ./usage_of_technology
+
+left-button-text: ← Previous
+left-button-link: ./community_statement
+
 ---
 
 ## <a name="rules_of_play">🌈 Rules of Play</a>
@@ -62,10 +71,3 @@ The Rules of Play represents the ITP/IMA community’s attempt to develop an evo
 - Listen to and acknowledge perspectives and opinions of marginalized people.
 - Maintain a diverse representation of identities and experiences within class syllabi (projects, resources, guests).
 - Structure classes and environments in order to allow for multiple modes of participation.
-
-<!-- Links buttons for next section in Code of Conduct -->
-<div class="next-previous-div">
-    <a class="next-previous-links" href="./community_statement">
-        ← Previous</a> <a class="next-previous-links" href="./usage_of_technology">Next →
-    </a>
-</div>

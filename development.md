@@ -2,6 +2,14 @@
 layout: document-code-of-conduct
 title: Code of Conduct
 permalink: /development
+
+edit-markdown-link: https://github.com/ITPNYU/ITP-IMA-Code-of-Conduct/edit/main/development.markdown
+
+right-button-text: Next →
+right-button-link: ./attribution
+
+left-button-text: ← Previous
+left-button-link: ./usage_of_technology
 ---
 
 ## <a name="development">🚧 Development of Code of Conduct</a>
@@ -20,12 +28,3 @@ We expect the Code of Conduct to be an evolving document. This evolution will ta
 - Second, elements will be clarified through interpretation. The Code of Conduct is made up of high level principles that may apply differently to each ITP/IMA community space and project. We intend to add interpretations to the Code of Conduct as we make them. We hope that this will add context to the principles over time.
 
 In addition to the Code of Conduct itself, when considering the development of creative computing applications, we recommend a further [Reading List](reading-list.md) which highlights key texts on ethics and technology.
-
-<!-- ------------------------------------------------------------ -->
-<!-- Links buttons for next section in Code of Conduct -->
-<div class="next-previous-div">
-    <a class="next-previous-links" href="./usage_of_technology">
-        ← Previous</a> 
-        <a class="next-previous-links" href="./attribution">Next →
-    </a>
-</div>

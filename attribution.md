@@ -2,6 +2,14 @@
 layout: document-code-of-conduct
 title: Code of Conduct
 permalink: /attribution
+
+edit-markdown-link: https://github.com/ITPNYU/ITP-IMA-Code-of-Conduct/edit/main/attribution.markdown
+
+right-button-text: ↑ Top
+right-button-link: #attribution
+
+left-button-text: ← Previous
+left-button-link: ./development
 ---
 
 ## <a name="attribution">🔗 Attribution</a>
@@ -12,11 +20,3 @@ In addition to the work done by community members in developing the Code of Cond
 - [https://www.contributor-covenant.org/version/2/0/code_of_conduct/](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)
 - [https://cloud9.support/communityguidelines](https://cloud9.support/communityguidelines)
 - [https://github.com/ml5js/Code-of-Conduct](https://github.com/ml5js/Code-of-Conduct)
-
-<!-- Links buttons for next section in Code of Conduct -->
-<div class="next-previous-div">
-    <a class="next-previous-links" href="./development">
-        ← Previous</a> 
-        <!-- <a class="next-previous-links" href="/attribution/">Next >>
-    </a> -->
-</div>

@@ -2,6 +2,14 @@
 layout: document-code-of-conduct
 title: Code of Conduct
 permalink: /usage_of_technology
+
+edit-markdown-link: https://github.com/ITPNYU/ITP-IMA-Code-of-Conduct/edit/main/usage_of_technology.markdown
+
+right-button-text: Next →
+right-button-link: ./development
+
+left-button-text: ← Previous
+left-button-link: ./rules_of_play
 ---
 ## <a name="usage_of_technology"> 💻 Usage of Technology</a>
 
@@ -21,11 +29,3 @@ What follows are our guiding principles. As always dialogue and communication ar
 - Do not build weapons or tools that control weapons.
 - This includes tools or projects that would do physical, mental, or emotional harm.
 - This includes tools that automate the deployment, operation, and targeting of weapons.
-
-<!-- Links buttons for next section in Code of Conduct -->
-<div class="next-previous-div">
-    <a class="next-previous-links" href="./rules_of_play">
-        ← Previous</a> 
-        <a class="next-previous-links" href="./development">Next →
-    </a>
-</div>

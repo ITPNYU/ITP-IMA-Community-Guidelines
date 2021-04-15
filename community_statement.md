@@ -2,6 +2,14 @@
 layout: document-code-of-conduct
 title: Code of Conduct
 permalink: /community_statement
+
+edit-markdown-link: https://github.com/ITPNYU/ITP-IMA-Code-of-Conduct/edit/main/community_statement.markdown
+
+right-button-text: Next →
+right-button-link: ./rules_of_play
+
+left-button-text: ↑ Top
+left-button-link: #community_statement
 ---
 
 ## <a name="community_statement">🌎 Community Statement</a>
@@ -36,11 +44,3 @@ With this understanding, it is our responsibility to center these groups when ho
 
 ## <a name="footnotes">Footnotes</a> 
 1: This is an example of a footnote. Interactive Telecommuncations Program / Interactive Media Arts
-
-<!-- Links buttons for next section in Code of Conduct -->
-<div class="next-previous-div">
-    <a class="next-previous-links" href="#community_statement">
-        ↑ Top</a> 
-        <a class="next-previous-links" href="./rules_of_play">Next →
-    </a>
-</div>
