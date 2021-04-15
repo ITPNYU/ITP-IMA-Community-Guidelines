@@ -3,7 +3,7 @@ layout: document-code-of-conduct
 title: Code of Conduct
 permalink: /development
 
-edit-markdown-link: https://github.com/ITPNYU/ITP-IMA-Code-of-Conduct/edit/main/development.markdown
+edit-markdown-link: https://github.com/ITPNYU/ITP-IMA-Code-of-Conduct/edit/main/development.md
 
 right-button-text: Next →
 right-button-link: ./attribution

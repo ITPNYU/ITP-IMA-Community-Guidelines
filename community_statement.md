@@ -3,7 +3,7 @@ layout: document-code-of-conduct
 title: Code of Conduct
 permalink: /community_statement
 
-edit-markdown-link: https://github.com/ITPNYU/ITP-IMA-Code-of-Conduct/edit/main/community_statement.markdown
+edit-markdown-link: https://github.com/ITPNYU/ITP-IMA-Code-of-Conduct/edit/main/community_statement.md
 
 right-button-text: Next →
 right-button-link: ./rules_of_play
