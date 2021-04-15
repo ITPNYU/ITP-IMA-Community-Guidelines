@@ -6,14 +6,14 @@ layout: header-footer
 <header class="cover-section">
     <div class="sub-cover-section">
         <div class="img-cover">
-            <img src="assets/sun-04.png" alt="">
+            <img src="assets/sun-04.png" alt="Code of Conduct Logo. Drawing of a yellow Sun.">
         </div>
         <div class="header-text">
             <h3>{{ page.header-text-h3 }}</h3>
             <h1>{{ page.header-text-h1 }}</h1>
             <p>{{ page.header-text-p }}</p>
         </div>
-        <button class="home-button"><a href="./community_statement" class="home-button-text">
+        <button class="home-button"><a href="{{ page.header-button-link }}" class="home-button-text">
                 {{ page.header-text-button }}
             </a></button>
     </div>
@@ -29,24 +29,26 @@ layout: header-footer
 <div class="other-groups-section">
 
     <div class="groups">
-        <a href="" target="_blank">
+        <a href="{{ page.workshop-link }}" target="_blank">
             <div class="img-group">
-                <img src="assets/other1.png" alt="">
+                <img src="assets/other1.png" alt="Illustration of a big green circle with smaller blue dots.">
             </div>
             <h2 class="name-group">{{ page.group-h-1 }}</h2>
             <p class="info-group">{{ page.group-p-1 }}</p>
         </a>
     </div>
     <div class="groups">
-        <a href="https://itp.nyu.edu/groups/equitable/" target="_blank">
-            <div class="img-group"><img src="assets/other2.png" alt=""></div>
+
+        <a href="{{ page.equitable-link }}" target="_blank">
+            <div class="img-group"><img src="assets/other2.png" alt="Illustration orange lines in star shapes."></div>
             <h2 class="name-group">{{ page.group-h-2 }}</h2>
             <p class="info-group">{{ page.group-p-2 }}</p>
         </a>
     </div>
     <div class="groups">
-        <a href="https://itp-techandsociety.github.io/online/" target="_blank">
-            <div class="img-group"><img src="assets/other3.png" alt=""></div>
+
+        <a href="{{ page.itp-techandsociety-link }}" target="_blank">
+            <div class="img-group"><img src="assets/other3.png" alt="Illustration of an orange semi-circle."></div>
             <h2 class="name-group">{{ page.group-h-3 }}</h2>
             <p class="info-group">{{ page.group-p-3 }}</p>
         </a>
@@ -55,8 +57,6 @@ layout: header-footer
 
 
 <!-- Reading List -->
-<!-- <hr> -->
-
 <div class="reading-list-section">
     <div class="reading-list-text">
         <h2 class="name-reading">{{ page.reading-h }}</h2>
@@ -64,26 +64,25 @@ layout: header-footer
     </div>
     <div class="books-list">
         <div class="books">
-            <p><a href="https://design-justice.pubpub.org/"><b>Design Justice</b></a></p>
-            <p><a href="http://schock.cc/">Sasha Costanza-Chock</a></p>
+            <p><a href="{{ page.book-1-link }}" target="_blank"><b>{{ page.book-1-text }}</b></a></p>
+            <p><a href="{{ page.author-1-link }}" target="_blank">{{ page.author-1-text }}</a></p>
         </div>
         <div class="books">
-            <p><a href="https://weaponsofmathdestructionbook.com/"><b>Weapons of Math Destruction</b></a></p>
-            <p><a href="https://mathbabe.org/"> Cathy O'Neil</a></p>
+            <p><a href="{{ page.book-2-link }}" target="_blank"><b>{{ page.book-2-text }}</b></a></p>
+            <p><a href="{{ page.author-2-link }}" target="_blank">{{ page.author-2-text }}</a></p>
         </div>
         <div class="books">
-            <p><a href="https://www.ruhabenjamin.com/race-after-technology"><b>Race After Technology</b></a></p>
-            <p><a href="https://www.ruhabenjamin.com/">Ruha Benjamin</a></p>
+            <p><a href="{{ page.book-3-link }}" target="_blank"><b>{{ page.book-3-text }}</b></a></p>
+            <p><a href="{{ page.author-3-link }}" target="_blank">{{ page.author-3-text }}</a></p>
         </div>
         <div class="books">
-            <p><a href=""><b>Data Feminism</b></a></p>
-            <p><a href="http://www.kanarinka.com/">Catherine D’Ignazio</a> and <a href="https://lklein.com/">Lauren F.
-                    Klein</a> </p>
+            <p><a href="{{ page.book-4-link }}" target="_blank"><b>{{ page.book-4-text }}</b></a></p>
+            <p><a href="{{ page.author-4-1-link }}" target="_blank">{{ page.author-4-1-text }}</a> and <a
+                    href="{{ page.author-4-2-link }}" target="_blank">{{ page.author-4-2-text }}</a> </p>
         </div>
         <div class="books">
-            <p><a href="https://nyupress.org/9781479837243/algorithms-of-oppression/"><b>Algorithms of Opression</b></a>
-            </p>
-            <p><a href="https://safiyaunoble.com/">Safiya Noble</a></p>
+            <p><a href="{{ page.book-5-link }}" target="_blank"><b>{{ page.book-5-text }}</b></a></p>
+            <p><a href="{{ page.author-5-link }}" target="_blank">{{ page.author-5-text }}</a></p>
         </div>
 
     </div>
