@@ -12,17 +12,12 @@ header-text-p: "All ITP/IMA community members are expected to thoroughly read an
 header-text-button: "Read the Code of Conduct"
 header-button-link: ./community_statement
 
-group-h-1: Workshops
-group-p-1: Access to the Code of Conduct's calendar of workshops and events.
-# workshop-link: ./404.html
-workshop-link: ./index
-
-group-h-2: ITP/IMA Equitability Working Group
-group-p-2: Community of critical inquiry at ITP/IMA and within the tech community in general.
+group-h-1: ITP/IMA Equitability Working Group
+group-p-1: Community of critical inquiry at ITP/IMA and within the tech community in general.
 equitable-link: https://itp.nyu.edu/groups/equitable/
 
-group-h-3: Tech & Society
-group-p-3: Community of critical inquiry at ITP/IMA and within the tech community in general.
+group-h-2: Tech & Society
+group-p-2: Community of critical inquiry at ITP/IMA and within the tech community in general.
 itp-techandsociety-link: https://itp-techandsociety.github.io/online/
 
 reading-h: 📚 Reading List
@@ -64,7 +59,7 @@ author-5-link: https://safiyaunoble.com/
 
 ## Welcome to the ITP/IMA Code of Conduct!
 
-All ITP/IMA community members are expected to thoroughly read and understand the Code of Conduct, so please make sure to visit each of the pages linked below in the index!
+All ITP/IMA community members are expected to thoroughly read and understand the <mark><a href="community_statement">Code of Conduct</a></mark>!
 
 The ITP/IMA CoC is an evolving **work-in-progress** document that establishes and communicates the commitment of the ITP/IMA community to uphold a key set of standards and obligations that aim to make ITP/IMA an inclusive and welcoming environment.
 
