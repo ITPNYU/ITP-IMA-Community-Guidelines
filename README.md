@@ -3,24 +3,13 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-Welcome to the ITP/IMA Code of Conduct! All ITP/IMA community members are expected to thoroughly read and understand the Code of Conduct, so please make sure to visit each of the pages linked below in the index! 
+Welcome to the ITP/IMA Code of Conduct! All ITP/IMA community members are expected to thoroughly read and understand the Code of Conduct, so please make sure to visit the [Code of Conduct's website](https://itpnyu.github.io/ITP-IMA-Code-of-Conduct/).
 
 The ITP/IMA CoC is an evolving **work-in-progress** document that establishes and communicates the commitment of the ITP/IMA community to uphold a key set of standards and obligations that aim to make ITP/IMA an inclusive and welcoming environment.
 
 The CoC is open to revisions, clarifications, and reconsideration. For more information on how the Code of Conduct came to be, who was involved, and how you can get involved check out the [Code of Conduct Development](CONTRIBUTING.md). For questions or suggestions, contact equitable@itp.nyu.edu.
 
 Many terms, concepts, and words in this Code of Conduct may be new or unfamiliar. Please refer to the [Glossary](glossary.md) for clarification of meaning. Certain words may be highlighted in the Code of Conduct with definitions in order to assist with comprehensibility.
-
-## Code of Conduct Index
-* 🌎 [Community Statement](community-statement.md)
-* 🚧 [Development of Code of Conduct](CONTRIBUTING.md)
-* 🌈 [Rules of Play](rules-of-play.md)
-* 💜 [Facilitation and Getting Help](facilitation.md)
-* 💻 [Usage of Technology](usage-of-technology.md)
-* ⛑ [Community Stewards](community-stewards.md)
-* 🔗 [Attribution](attribution.md)
-* 📚 [Reading List](reading-list.md)
-* 📇 [Glossary](glossary.md)
 
 ## Contributors ✨
 
