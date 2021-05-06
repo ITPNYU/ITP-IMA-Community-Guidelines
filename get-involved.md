@@ -17,7 +17,7 @@ We encourage any level of contribution for improvement: participation in discuss
 
 ## ✏️ Propose a Change
 
-Every section of the Code of Conduct document has a **Propose a Change** button. A click on the Propose a Change button will you direct you to the github source of the document. In the github source you can propose the changes or an update in the code of conduct repository. 
+Every section of the Code of Conduct document has a **Propose a Change** button. The button directs you to the GitHub edit page for the document. There, you can propose a change in the Code of Conduct repository itself. 
 
 For more about how to **[pull a request](https://docs.github.com/en/github/managing-files-in-a-repository/editing-files-in-another-users-repository)**
 
