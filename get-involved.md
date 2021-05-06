@@ -42,10 +42,9 @@ More about **[Issues](https://docs.github.com/en/github/managing-your-work-on-gi
 <br>
 
 ## 📢 Additional Material
-The ITP/IMA Code of Conduct regularly prepares workshops. Here we share material from previous workshops. 
+Community members at ITP/IMA have offered workshops using the Code of Conduct as a foundation.  These materials are available to be remixed. If you create a workshop, please let us know!
 
 ✨ **[Bot Ethics](https://docs.google.com/presentation/d/1ugYkvbtydBdG5E-N7Bm73O1ry4NOxnVnB8BEGjdh9jQ/edit?usp=sharing)**
 
 ✨ **[Code of Conduct Orientational Material](https://docs.google.com/presentation/d/1uV7DVr6Z0ZVw8tjH4C7xfNkpr_IKfijUaRTWne6tSOo/edit?usp=sharing)**
  
-
