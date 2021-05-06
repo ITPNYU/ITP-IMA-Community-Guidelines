@@ -8,7 +8,7 @@ permalink: /get_involved
 ### Contributions of any kind are welcome!
 <!-- # Thanks for your interest ITP IMA Code of Conduct! -->
 
-We encourage any level of contribution for improvement: participation in discussions, giving feedback, pull a request, typo or any other kind of support. This is an evolving project that follows **[all-contributors](https://github.com/all-contributors/all-contributors)** specifications. If you want to know more about how to contribute you can visit [CONTRIBUTING.md](https://github.com/ITPNYU/ITP-IMA-Code-of-Conduct/blob/main/CONTRIBUTING.md)
+We encourage any level of contribution for improvement: asking questions, providing feedback, minor fixes/typos, and any other kind of support. This is an evolving project that follows **[all-contributors](https://github.com/all-contributors/all-contributors)** specifications. If you want learn more about how to contribute visit [CONTRIBUTING.md](https://github.com/ITPNYU/ITP-IMA-Code-of-Conduct/blob/main/CONTRIBUTING.md)
 
 **For questions or suggestions, contact <mark><a href="mailto:equitable@itp.nyu.edu" target="_blank">equitable@itp.nyu.edu</a></mark>**
 
