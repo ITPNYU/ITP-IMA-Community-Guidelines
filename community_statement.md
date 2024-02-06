@@ -1,6 +1,6 @@
 ---
 layout: document-code-of-conduct
-title: Code of Conduct
+title: Community Commitments
 permalink: /community_statement
 
 edit-markdown-link: https://github.com/ITPNYU/ITP-IMA-Code-of-Conduct/edit/main/community_statement.md
@@ -19,7 +19,7 @@ left-button-link: #community_statement
 
 ITP/IMA is a community whose mission is to explore the imaginative uses of emerging technologies — to make people's lives safer, more just, more beautiful, more meaningful, and more fun. We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
 
-The scope of this Code of Conduct applies to all ITP/IMA community members (faculty, staff, students, residents, fellows, and guests), ITP/IMA physical and digital spaces (e.g. Email listservs, Yorb, and ITP/IMA Discord server), and all courses, events, and projects created at or in service to ITP/IMA.
+The scope of these Community Commitments applies to all ITP/IMA community members (faculty, staff, students, residents, fellows, and guests), ITP/IMA physical and digital spaces (e.g. Email listservs, Yorb, and ITP/IMA Discord server), and all courses, events, and projects created at or in service to ITP/IMA.
 
 ## <a name="solidarity">Solidarity</a>
 We are a community of and in solidarity with, people from every gender identity and expression, sexual orientation, race, ethnicity, language, neuro-type, all visible or invisible disability, body size, ability, class, religion, culture, subculture, age, skill level, occupation and background. As a result, we continually work to make participation in our community a harassment-free experience for identities above as well as all levels of experience, education and socio-economic status.
