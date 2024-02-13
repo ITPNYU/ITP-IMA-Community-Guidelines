@@ -1,6 +1,8 @@
 # How to Contribute
 The ITP/IMA Community Commitments is a community driven project. This repo is part of our effort to maintain a reachable and participative process in order to easily evolve the document and encourage contributions. 
 
+Test change
+
 The Community Commitments follows the All-contributors specifications, which means that the community can get involved in any kind of support: like participation in discussions, co-authoring the document, as well as the website. We encourage any type of contribution, any change that helps the community grow a Best content and environment for all community members.
 
 ## Contributing Workflow
