@@ -1,6 +1,6 @@
 ---
 layout: document-code-of-conduct
-title: Code of Conduct
+title: Community Commitments
 permalink: /community_statement
 
 edit-markdown-link: https://github.com/ITPNYU/ITP-IMA-Code-of-Conduct/edit/main/community_statement.md
@@ -19,7 +19,7 @@ left-button-link: #community_statement
 
 ITP/IMA is a community whose mission is to explore the imaginative uses of emerging technologies — to make people's lives safer, more just, more beautiful, more meaningful, and more fun. We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
 
-The scope of this Code of Conduct applies to all ITP/IMA community members (faculty, staff, students, residents, fellows, and guests), ITP/IMA physical and digital spaces (e.g. Email listservs, Yorb, and ITP/IMA Discord server), and all courses, events, and projects created at or in service to ITP/IMA.
+These Community Commitments apply to all ITP/IMA community members (faculty, staff, students, residents, fellows, and guests), ITP/IMA physical and digital spaces (e.g. Email listservs, Yorb, and ITP/IMA Discord server), and all courses, events, and projects created at or in service to ITP/IMA.
 
 ## <a name="solidarity">Solidarity</a>
 
@@ -47,6 +47,6 @@ We pledge to center creative and ethical uses of technology in our research, tea
 
 With this understanding, it is our responsibility to center these groups when hosting, participating in, or developing events (e.g. workshops or meetings), materials (e.g. courses, syllabi, resources), technologies (software, hardware, tools, etc) and creative applications made at ITP /IMA (e.g. works of art, products, installations, experiments, etc).
 
-## <a name="footnotes">Footnotes</a>
+<!--## <a name="footnotes">Footnotes</a>
 
-1: This is an example of a footnote. Interactive Telecommuncations Program / Interactive Media Arts
+1: This is an example of a footnote. Interactive Telecommuncations Program / Interactive Media Arts-->

@@ -1,6 +1,6 @@
 ---
 layout: document-code-of-conduct
-title: Code of Conduct
+title: Community Commitments
 permalink: /rules_of_play
 
 edit-markdown-link: https://github.com/ITPNYU/ITP-IMA-Code-of-Conduct/edit/main/rules_of_play.md
@@ -41,7 +41,7 @@ _These are courtesies and etiquettes that may not have occurred to us because th
 
 ## <a name="Unacceptable">Unacceptable</a>
 
-_These behaviors are completely unacceptable within our community and are grounds for disciplinary actions by NYU._
+_These behaviors are completely unacceptable within our community._
 
 - Offensive comments related to gender identity and expression, sexual orientation, race, ethnicity, language, neuro-type, size, ability, class, religion, culture, subculture, age, skill level, occupation, or background
 - Threats of violence and deliberate intimidation
@@ -62,7 +62,6 @@ _These behaviors are completely unacceptable within our community and are ground
 ### Faculty / Staff / Residents / Fellows
 
 - Provide modes for student feedback and be open to criticism.
-- Address behavior that violates the Code of Conduct.
 - Provide a learning environment that allows for the full complexity of thoughts and experiences to be shared and heard.
 - Listen to and acknowledge perspectives and opinions of marginalized people.
 - Maintain a diverse representation of identities and experiences within class syllabi (projects, resources, guests).

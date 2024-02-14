@@ -3,25 +3,25 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: homepage
-title: ITP/IMA Code of Conduct
-author: 'ITP/IMA Community. First version build by Themis Garcia'
+title: ITP/IMA Community Commitments
+author: 'ITP/IMA Community.'
 
 header-text-h3: 'Welcome to the ITP/IMA'
-header-text-h1: 'Code of Conduct'
-header-text-p: 'All ITP/IMA community members are expected to thoroughly read and understand.'
-header-text-button: 'Read the Code of Conduct'
+header-text-h1: 'Community Commitments'
+header-text-p: 'We encourage all ITP/IMA community members to read these commitments.'
+header-text-button: 'Read the Community Commitments'
 header-button-link: ./community_statement
 
-group-h-1: ITP/IMA Equitability Working Group
-group-p-1: Community of critical inquiry at ITP/IMA and within the tech community in general.
+group-h-1: ITP/IMA Equitable Committee
+group-p-1: Faculty Committee working to create or facilitate the creation of new equitable systems at ITP/IMA.
 equitable-link: https://itp.nyu.edu/groups/equitable/
 
 group-h-2: Tech & Society
-group-p-2: Community of critical inquiry at ITP/IMA and within the tech community in general.
+group-p-2: Community of critical inquiry at ITP/IMA.
 itp-techandsociety-link: https://itp-techandsociety.github.io/online/
 
 reading-h: 📚 Reading List
-reading-p: In addition to the Code of Conduct itself, when considering the development of creative computing applications, we recommend a further Reading List which highlights key texts on ethics and technology.
+reading-p: In addition to the Community Guidelines themselves, when considering the development of creative computing applications, we recommend a further Reading List which highlights key texts on ethics and technology.
 
 # Book1
 book-1-text: Design Justice
@@ -56,15 +56,15 @@ author-5-text: Safiya Noble
 author-5-link: https://safiyaunoble.com/
 ---
 
-## Welcome to the ITP/IMA Code of Conduct!
+## Welcome to the ITP/IMA Community Commitments!
 
-All ITP/IMA community members are expected to thoroughly read and understand the <mark><a href="community_statement">Code of Conduct</a></mark>!
+We warmly invite all ITP/IMA community members to read and understand the <mark><a href="community_statement">Community Commitments</a></mark>!
 
-The ITP/IMA CoC is an evolving **work-in-progress** document that establishes and communicates the commitment of the ITP/IMA community to uphold a key set of standards and obligations that aim to make ITP/IMA an inclusive and welcoming environment.
+The ITP/IMA Community Commitments is an evolving **work-in-progress** document that establishes and communicates the commitment of the ITP/IMA community to uphold a key set of standards and obligations that aim to make ITP/IMA an inclusive and welcoming environment.
 
-The CoC is open to revisions, clarifications, and reconsideration. For more information on how the Code of Conduct came to be, who was involved, and how you can get involved check out the Code of Conduct Development <mark><a href="development">Code of Conduct Development</a></mark>. For questions or suggestions, contact <a href="mailto:equitable@itp.nyu.edu">equitable@itp.nyu.edu</a>.
+The Community Commitments is open to revisions, clarifications, and reconsideration. For more information on how the Community Commitments came to be, who was involved, and how you can get involved check out the Community Commitments Development <mark><a href="development">Community Commitments Development</a></mark>. For questions or suggestions, contact <a href="mailto:equitable@itp.nyu.edu">equitable@itp.nyu.edu</a>.
 
-Many terms, concepts, and words in this Code of Conduct may be new or unfamiliar. Please refer to the <mark><a href="glossary">Glossary</a></mark> for clarification of meaning. Certain words may be highlighted in the Code of Conduct with definitions in order to assist with comprehensibility.
+Many terms, concepts, and words in this Community Commitments may be new or unfamiliar. Please refer to the <mark><a href="glossary">Glossary</a></mark> for clarification of meaning. Certain words may be highlighted in the Community Commitments with definitions in order to assist with comprehensibility.
 
-**This project follows the <mark><a href="https://github.com/ITPNYU/ITP-IMA-Code-of-Conduct" target="_blank">all-contributors</a></mark> specification.**
+**This project follows the <mark><a href="https://github.com/ITPNYU/ITP-IMA-Community-Guidelines" target="_blank">all-contributors</a></mark> specification.**
 **Contributions of any kind welcome!**
