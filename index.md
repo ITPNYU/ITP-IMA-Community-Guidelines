@@ -21,7 +21,7 @@ group-p-2: Community of critical inquiry at ITP/IMA.
 itp-techandsociety-link: https://itp-techandsociety.github.io/online/
 
 reading-h: 📚 Reading List
-reading-p: In addition to the Community Commitments itself, when considering the development of creative computing applications, we recommend a further Reading List which highlights key texts on ethics and technology.
+reading-p: In addition to the Community Guidelines themselves, when considering the development of creative computing applications, we recommend a further Reading List which highlights key texts on ethics and technology.
 
 # Book1
 book-1-text: Design Justice
