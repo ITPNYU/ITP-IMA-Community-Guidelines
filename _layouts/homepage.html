@@ -4,78 +4,90 @@ layout: header-footer
 
 <!-- Header -->
 <header class="cover-section">
-    <div class="sub-cover-section">
-        <div class="img-cover">
-            <img src="assets/sun-04.png" alt="Code of Conduct Logo. Drawing of a yellow Sun.">
-        </div>
-        <div class="header-text">
-            <h3>{{ page.header-text-h3 }}</h3>
-            <h1>{{ page.header-text-h1 }}</h1>
-            <p>{{ page.header-text-p }}</p>
-        </div>
-        <button class="home-button"><a href="{{ page.header-button-link }}" class="home-button-text">
-                {{ page.header-text-button }}
-            </a></button>
+  <div class="sub-cover-section">
+    <div class="img-cover">
+      <img src="assets/sun-04.png" alt="Code of Conduct Logo. Drawing of a yellow Sun." />
     </div>
+    <div class="header-text">
+      <h3>{{ page.header-text-h3 }}</h3>
+      <h1>{{ page.header-text-h1 }}</h1>
+      <p>{{ page.header-text-p }}</p>
+    </div>
+    <button class="home-button">
+      <a href="{{ page.header-button-link }}" class="home-button-text">
+        {{ page.header-text-button }}
+      </a>
+    </button>
+  </div>
 </header>
 
 <!-- Introduction -->
-<div class="introduction-text-section">
-    {{ content }}
-</div>
-
+<div class="introduction-text-section">{{ content }}</div>
 
 <!-- Other Groups and Community -->
 <div class="other-groups-section">
-
-    <div class="groups">
-        <a href="{{ page.equitable-link }}" target="_blank">
-            <div class="img-group">
-                <img src="assets/other1.png" alt="Illustration of a big green circle with smaller blue dots.">
-            </div>
-            <h2 class="name-group">{{ page.group-h-1 }}</h2>
-            <p class="info-group">{{ page.group-p-1 }}</p>
-        </a>
-    </div>
-    <div class="groups">
-
-        <a href="{{ page.itp-techandsociety-link }}" target="_blank">
-            <div class="img-group"><img src="assets/other2.png" alt="Illustration orange lines in star shapes."></div>
-            <h2 class="name-group">{{ page.group-h-2 }}</h2>
-            <p class="info-group">{{ page.group-p-2 }}</p>
-        </a>
-    </div>
+  <div class="groups">
+    <a href="{{ page.equitable-link }}" target="_blank">
+      <div class="img-group">
+        <img
+          src="assets/other1.png"
+          alt="Illustration of a big green circle with smaller blue dots."
+        />
+      </div>
+      <h2 class="name-group">{{ page.group-h-1 }}</h2>
+      <p class="info-group">{{ page.group-p-1 }}</p>
+    </a>
+  </div>
+  <div class="groups">
+    <a href="{{ page.itp-techandsociety-link }}" target="_blank">
+      <div class="img-group">
+        <img src="assets/other2.png" alt="Illustration orange lines in star shapes." />
+      </div>
+      <h2 class="name-group">{{ page.group-h-2 }}</h2>
+      <p class="info-group">{{ page.group-p-2 }}</p>
+    </a>
+  </div>
 </div>
-
 
 <!-- Reading List -->
 <div class="reading-list-section">
-    <div class="reading-list-text">
-        <h2 class="name-reading">{{ page.reading-h }}</h2>
-        <p class="info-reading">{{ page.reading-p }}</p>
+  <div class="reading-list-text">
+    <h2 class="name-reading">{{ page.reading-h }}</h2>
+    <p class="info-reading">{{ page.reading-p }}</p>
+  </div>
+  <div class="books-list">
+    <div class="books">
+      <p>
+        <a href="{{ page.book-1-link }}" target="_blank"><b>{{ page.book-1-text }}</b></a>
+      </p>
+      <p><a href="{{ page.author-1-link }}" target="_blank">{{ page.author-1-text }}</a></p>
     </div>
-    <div class="books-list">
-        <div class="books">
-            <p><a href="{{ page.book-1-link }}" target="_blank"><b>{{ page.book-1-text }}</b></a></p>
-            <p><a href="{{ page.author-1-link }}" target="_blank">{{ page.author-1-text }}</a></p>
-        </div>
-        <div class="books">
-            <p><a href="{{ page.book-2-link }}" target="_blank"><b>{{ page.book-2-text }}</b></a></p>
-            <p><a href="{{ page.author-2-link }}" target="_blank">{{ page.author-2-text }}</a></p>
-        </div>
-        <div class="books">
-            <p><a href="{{ page.book-3-link }}" target="_blank"><b>{{ page.book-3-text }}</b></a></p>
-            <p><a href="{{ page.author-3-link }}" target="_blank">{{ page.author-3-text }}</a></p>
-        </div>
-        <div class="books">
-            <p><a href="{{ page.book-4-link }}" target="_blank"><b>{{ page.book-4-text }}</b></a></p>
-            <p><a href="{{ page.author-4-1-link }}" target="_blank">{{ page.author-4-1-text }}</a> and <a
-                    href="{{ page.author-4-2-link }}" target="_blank">{{ page.author-4-2-text }}</a> </p>
-        </div>
-        <div class="books">
-            <p><a href="{{ page.book-5-link }}" target="_blank"><b>{{ page.book-5-text }}</b></a></p>
-            <p><a href="{{ page.author-5-link }}" target="_blank">{{ page.author-5-text }}</a></p>
-        </div>
-
+    <div class="books">
+      <p>
+        <a href="{{ page.book-2-link }}" target="_blank"><b>{{ page.book-2-text }}</b></a>
+      </p>
+      <p><a href="{{ page.author-2-link }}" target="_blank">{{ page.author-2-text }}</a></p>
     </div>
+    <div class="books">
+      <p>
+        <a href="{{ page.book-3-link }}" target="_blank"><b>{{ page.book-3-text }}</b></a>
+      </p>
+      <p><a href="{{ page.author-3-link }}" target="_blank">{{ page.author-3-text }}</a></p>
+    </div>
+    <div class="books">
+      <p>
+        <a href="{{ page.book-4-link }}" target="_blank"><b>{{ page.book-4-text }}</b></a>
+      </p>
+      <p>
+        <a href="{{ page.author-4-1-link }}" target="_blank">{{ page.author-4-1-text }}</a> and
+        <a href="{{ page.author-4-2-link }}" target="_blank">{{ page.author-4-2-text }}</a>
+      </p>
+    </div>
+    <div class="books">
+      <p>
+        <a href="{{ page.book-5-link }}" target="_blank"><b>{{ page.book-5-text }}</b></a>
+      </p>
+      <p><a href="{{ page.author-5-link }}" target="_blank">{{ page.author-5-text }}</a></p>
+    </div>
+  </div>
 </div>

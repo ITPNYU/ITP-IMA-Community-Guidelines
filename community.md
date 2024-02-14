@@ -13,10 +13,11 @@ The initial stewards consist of members of the ITP/IMA community responsible for
 ## This year’s stewards are:
 
 ### Tech & Society
+
 Ashley Jane Lewis, Lydia Jessup, Mary Notari, Verónica Alfaro Arias
 
 ### ITP/IMA Equitability Working Group
+
 Blair Simmons, Daniel Shiffman, David Rios, Luisa Pereira, Matt Romein, Sarah Rothberg
 
 **Thanks goes to these wonderful people [Emoji Key](https://allcontributors.org/docs/en/emoji-key)**✨
-
