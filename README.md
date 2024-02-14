@@ -1,6 +1,9 @@
 # Code of Conduct
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Welcome to the ITP/IMA Code of Conduct! All ITP/IMA community members are expected to thoroughly read and understand the Code of Conduct, so please make sure to visit the [Code of Conduct's website](https://itpnyu.github.io/ITP-IMA-Code-of-Conduct/).
