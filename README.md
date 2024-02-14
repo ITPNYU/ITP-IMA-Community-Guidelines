@@ -6,7 +6,7 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-Welcome to the ITP/IMA Community Commitments! All ITP/IMA community members are expected to thoroughly read and understand the Community Commitments, so please make sure to visit the [Community Commitments's website](https://itpnyu.github.io/ITP-IMA-Code-of-Conduct/).
+Welcome to the ITP/IMA Community Commitments! We invite all ITP/IMA community members to thoroughly read the Community Commitments, at [community.itp.io](https://community.itp.io).
 
 The ITP/IMA Community Commitments is an evolving **work-in-progress** document that establishes and communicates the commitment of the ITP/IMA community to uphold a key set of standards and obligations that aim to make ITP/IMA an inclusive and welcoming environment.
 

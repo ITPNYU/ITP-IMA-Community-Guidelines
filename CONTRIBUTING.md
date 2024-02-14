@@ -7,6 +7,7 @@ The Community Commitments follows the All-contributors specifications, which mea
 ## Contributing Workflow
 
 The basic flow for this participation is through the ITP/IMA Community Commitments Github. You can contribute by giving suggestions, or changing content with markdown. This allows us to change text, edit content without going deeper in the code.
+
 To contribute through this repository, you must have a Github account.
 
 Contributions are accessible through buttons like “Propose a Change”. The “Give Feedback” button can be found on the Get Involved page and other parts of the document. These two buttons will direct you to the github source, where you open a “pull request” to propose the changes, or give feedback by “reporting an issue”.
@@ -26,9 +27,9 @@ Using plain text editor Markdown, you can contribute to the Community Commitment
 5. Title new branch
 6. Commit changes
 
-### Contributing from [Issues](https://github.com/ITPNYU/ITP-IMA-Code-of-Conduct/issues)
+### Contributing from [Issues](https://github.com/ITPNYU/ITP-IMA-Community-Guidelines/issues)
 
-To give feedback, or see what issues are pending, you can go to [Issues](https://github.com/ITPNYU/ITP-IMA-Code-of-Conduct/issues) in this repository.
+To give feedback, or see what issues are pending, you can go to [Issues](https://github.com/ITPNYU/ITP-IMA-Community-Guidelines/issues) in this repository.
 
 **Give a Feedback**
 Before filing an issue, we encourage you to take a look at the list of issues. It might be addressed already.
