@@ -1,6 +1,9 @@
 # Community Commitments
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Welcome to the ITP/IMA Community Commitments! All ITP/IMA community members are expected to thoroughly read and understand the Community Commitments, so please make sure to visit the [Community Commitments's website](https://itpnyu.github.io/ITP-IMA-Code-of-Conduct/).

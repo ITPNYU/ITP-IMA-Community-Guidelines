@@ -11,11 +11,12 @@ right-button-link: ./development
 left-button-text: ← Previous
 left-button-link: ./rules_of_play
 ---
+
 ## <a name="usage_of_technology"> 💻 Usage of Technology</a>
 
-> *Think of technology as a verb, not a noun. It provides the tools. Creative people provide imagination.*<br/> — Red Burns
+> _Think of technology as a verb, not a noun. It provides the tools. Creative people provide imagination._<br/> — Red Burns
 
-*As artists, designers, students, educators, toolmakers, technologists we are in dialogue with technology and the people it affects. We learn, play, explore, contextualize, and critique. We are responsible for making work ethically, and holding ourselves and each other accountable to ethical and equitable standards.*
+_As artists, designers, students, educators, toolmakers, technologists we are in dialogue with technology and the people it affects. We learn, play, explore, contextualize, and critique. We are responsible for making work ethically, and holding ourselves and each other accountable to ethical and equitable standards._
 
 What follows are our guiding principles. As always dialogue and communication are essential in understanding and navigating nuance and difference of opinion. Remember that intent (why you want to make the tool or create the project) does not absolve you of impact (how the tool is used and the harm your project could cause). We also acknowledge the complexity and intersectionality that may arise when adhering to these principles. Above all, community dialogue will be our guide in these moments.
 
