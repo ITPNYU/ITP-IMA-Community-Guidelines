@@ -1,6 +1,6 @@
 ---
 layout: document-code-of-conduct
-title: Code of Conduct
+title: Community Commitments
 permalink: /usage_of_technology
 
 edit-markdown-link: https://github.com/ITPNYU/ITP-IMA-Code-of-Conduct/edit/main/usage_of_technology.md

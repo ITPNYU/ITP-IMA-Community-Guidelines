@@ -1,6 +1,6 @@
 ---
 layout: glossary
-title: Code of Conduct
+title: Community Commitments
 permalink: /glossary
 
 last-update: Summer 2020

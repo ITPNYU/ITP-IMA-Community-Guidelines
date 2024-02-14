@@ -1,6 +1,6 @@
 ---
 layout: document-code-of-conduct
-title: Code of Conduct
+title: Community Commitments
 permalink: /attribution
 
 edit-markdown-link: https://github.com/ITPNYU/ITP-IMA-Code-of-Conduct/edit/main/attribution.md
@@ -14,7 +14,7 @@ left-button-link: ./development
 
 ## <a name="attribution">🔗 Attribution</a>
 
-In addition to the work done by community members in developing the Code of Conduct we want to acknowledge the community guidelines used by other communities that have acted as a guide, reference, and inspiration for our own process.
+In addition to the work done by community members in developing the Community Commitments we want to acknowledge the community guidelines used by other communities that have acted as a guide, reference, and inspiration for our own process.
 
 - [http://p5js.org/community/](http://p5js.org/community/)
 - [https://www.contributor-covenant.org/version/2/0/code_of_conduct/](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)

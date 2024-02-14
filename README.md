@@ -1,4 +1,4 @@
-# Code of Conduct
+# Community Commitments
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
@@ -6,13 +6,13 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-Welcome to the ITP/IMA Code of Conduct! All ITP/IMA community members are expected to thoroughly read and understand the Code of Conduct, so please make sure to visit the [Code of Conduct's website](https://itpnyu.github.io/ITP-IMA-Code-of-Conduct/).
+Welcome to the ITP/IMA Community Commitments! All ITP/IMA community members are expected to thoroughly read and understand the Community Commitments, so please make sure to visit the [Community Commitments's website](https://itpnyu.github.io/ITP-IMA-Code-of-Conduct/).
 
-The ITP/IMA CoC is an evolving **work-in-progress** document that establishes and communicates the commitment of the ITP/IMA community to uphold a key set of standards and obligations that aim to make ITP/IMA an inclusive and welcoming environment.
+The ITP/IMA Community Commitments is an evolving **work-in-progress** document that establishes and communicates the commitment of the ITP/IMA community to uphold a key set of standards and obligations that aim to make ITP/IMA an inclusive and welcoming environment.
 
-The CoC is open to revisions, clarifications, and reconsideration. For more information on how the Code of Conduct came to be, who was involved, and how you can get involved check out the [Code of Conduct Development](CONTRIBUTING.md). For questions or suggestions, contact equitable@itp.nyu.edu.
+The Community Commitments is open to revisions, clarifications, and reconsideration. For more information on how the Community Commitments came to be, who was involved, and how you can get involved check out the [Community Commitments Development](CONTRIBUTING.md). For questions or suggestions, contact equitable@itp.nyu.edu.
 
-Many terms, concepts, and words in this Code of Conduct may be new or unfamiliar. Please refer to the [Glossary](glossary.md) for clarification of meaning. Certain words may be highlighted in the Code of Conduct with definitions in order to assist with comprehensibility.
+Many terms, concepts, and words in this Community Commitments may be new or unfamiliar. Please refer to the [Glossary](glossary.md) for clarification of meaning. Certain words may be highlighted in the Community Commitments with definitions in order to assist with comprehensibility.
 
 ## Contributors ✨
 
