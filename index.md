@@ -3,13 +3,13 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: homepage
-title: ITP/IMA Community Commitments
+title: ITP/IMA Community Guidelines
 author: 'ITP/IMA Community.'
 
 header-text-h3: 'Welcome to the ITP/IMA'
-header-text-h1: 'Community Commitments'
-header-text-p: 'We encourage all ITP/IMA community members to read these commitments.'
-header-text-button: 'Read the Community Commitments'
+header-text-h1: 'Community Guidelines'
+header-text-p: 'We encourage all ITP/IMA community members to read these guidelines.'
+header-text-button: 'Read the Community Guidelines'
 header-button-link: ./community_statement
 
 group-h-1: ITP/IMA Equitable Committee
@@ -56,15 +56,15 @@ author-5-text: Safiya Noble
 author-5-link: https://safiyaunoble.com/
 ---
 
-## Welcome to the ITP/IMA Community Commitments!
+## Welcome to the ITP/IMA Community Guidelines!
 
-We warmly invite all ITP/IMA community members to read and understand the <mark><a href="community_statement">Community Commitments</a></mark>!
+We warmly invite all ITP/IMA community members to read and understand the <mark><a href="community_statement">Community Guidelines</a></mark>!
 
-The ITP/IMA Community Commitments is an evolving **work-in-progress** document that establishes and communicates the commitment of the ITP/IMA community to uphold a key set of standards and obligations that aim to make ITP/IMA an inclusive and welcoming environment.
+The ITP/IMA Community Guidelines is an evolving **work-in-progress** document that establishes and communicates the commitment of the ITP/IMA community to uphold a key set of standards and obligations that aim to make ITP/IMA an inclusive and welcoming environment.
 
-The Community Commitments is open to revisions, clarifications, and reconsideration. For more information on how the Community Commitments came to be, who was involved, and how you can get involved check out the Community Commitments Development <mark><a href="development">Community Commitments Development</a></mark>. For questions or suggestions, contact <a href="mailto:equitable@itp.nyu.edu">equitable@itp.nyu.edu</a>.
+The Community Guidelines is open to revisions, clarifications, and reconsideration. For more information on how the Community Guidelines came to be, who was involved, and how you can get involved check out the Community Guidelines Development <mark><a href="development">Community Guidelines Development</a></mark>. For questions or suggestions, contact <a href="mailto:equitable@itp.nyu.edu">equitable@itp.nyu.edu</a>.
 
-Many terms, concepts, and words in this Community Commitments may be new or unfamiliar. Please refer to the <mark><a href="glossary">Glossary</a></mark> for clarification of meaning. Certain words may be highlighted in the Community Commitments with definitions in order to assist with comprehensibility.
+Many terms, concepts, and words in this Community Guidelines may be new or unfamiliar. Please refer to the <mark><a href="glossary">Glossary</a></mark> for clarification of meaning. Certain words may be highlighted in the Community Guidelines with definitions in order to assist with comprehensibility.
 
 **This project follows the <mark><a href="https://github.com/ITPNYU/ITP-IMA-Community-Guidelines" target="_blank">all-contributors</a></mark> specification.**
 **Contributions of any kind welcome!**

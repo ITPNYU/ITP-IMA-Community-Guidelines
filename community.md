@@ -1,14 +1,14 @@
 ---
 layout: community
-title: Community Commitments
+title: Community Guidelines
 permalink: /community
 ---
 
 ## Community Stewards ✨
 
-The Community Commitments stewards are responsible for maintaining the Community Commitments, managing discussions about additions and subtractions, and interpreting the Community Commitments in related discussions.
+The Community Guidelines stewards are responsible for maintaining the Community Guidelines, managing discussions about additions and subtractions, and interpreting the Community Guidelines in related discussions.
 
-The initial stewards consist of members of the ITP/IMA community responsible for drafting this Community Commitments drawn from organizing members of Tech & Society and the ITP/IMA Equitability Working Group. The stewards have made a commitment for the academic year 2020-2021. In addition to maintaining the Community Commitments during this period, they will be responsible for developing a plan for regularly rotating stewards. The stewards primary responsibility is to maintain this Community Commitments in order to make sure it continues to reflect the ITP/IMA community’s values.
+The initial stewards consist of members of the ITP/IMA community responsible for drafting this Community Guidelines drawn from organizing members of Tech & Society and the ITP/IMA Equitability Working Group. The stewards have made a commitment for the academic year 2020-2021. In addition to maintaining the Community Guidelines during this period, they will be responsible for developing a plan for regularly rotating stewards. The stewards primary responsibility is to maintain this Community Guidelines in order to make sure it continues to reflect the ITP/IMA community’s values.
 
 ## This year’s stewards are:
 
