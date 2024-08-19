@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: ITP/IMA Community Commitments
+title: ITP/IMA Community Guidelines
 email: equitable@itp.nyu.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  The ITP/IMA Community Commitments is an evolving work-in-progress document that establishes and communicates the commitment of the ITP/IMA community to uphold a key set of standards and obligations that aim to make ITP/IMA an inclusive and welcoming environment.
+  The ITP/IMA Community Guidelines is an evolving work-in-progress document that establishes and communicates the commitment of the ITP/IMA community to uphold a key set of standards and obligations that aim to make ITP/IMA an inclusive and welcoming environment.
 baseurl: '/ITP-IMA-Code-of-Conduct' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb

@@ -1,6 +1,6 @@
 ---
 layout: glossary
-title: Community Commitments
+title: Community Guidelines
 permalink: /glossary
 
 last-update: Summer 2020

@@ -1,6 +1,6 @@
 ---
 layout: document-code-of-conduct
-title: Community Commitments
+title: Community Guidelines
 permalink: /rules_of_play
 
 edit-markdown-link: https://github.com/ITPNYU/ITP-IMA-Code-of-Conduct/edit/main/rules_of_play.md
@@ -50,7 +50,7 @@ _These behaviors are completely unacceptable within our community._
 - Stalking or following
 - All forms of harassment, physical or digital
 
-## <a name="Responsibilities_and_Commitments">Responsibilities and Commitments</a>
+## <a name="Responsibilities_and_Guidelines">Responsibilities and Guidelines</a>
 
 ### Students
 

@@ -1,6 +1,6 @@
 ---
 layout: getting-help
-title: Community Commitments
+title: Community Guidelines
 permalink: /getting_help
 ---
 
@@ -8,9 +8,9 @@ permalink: /getting_help
 
 As we are individually responsible for upholding ethical standards of learning and making, we are also responsible for holding ourselves and each other accountable. Voicing concerns and addressing issues is part of how we keep each other safe, foster open communication, and strive to grow and learn as a community.
 
-We recognize that violations -- whether of this Community Commitments, or of other institutional, personal, or professional standards -- can take many forms. Violations can come from any community member and be experienced by any community member (including but not limited to interactions between students and faculty or the reverse, faculty and faculty, staff and students, faculty and staff, and various interactions of our community with guests inside and/or outside of the classroom, in physical and digital spaces.
+We recognize that violations -- whether of this Community Guidelines, or of other institutional, personal, or professional standards -- can take many forms. Violations can come from any community member and be experienced by any community member (including but not limited to interactions between students and faculty or the reverse, faculty and faculty, staff and students, faculty and staff, and various interactions of our community with guests inside and/or outside of the classroom, in physical and digital spaces.
 
-In the event of any unresolved dispute, conflict, or Community Commitments violation, we encourage community members to take any or all of the following actions:
+In the event of any unresolved dispute, conflict, or Community Guidelines violation, we encourage community members to take any or all of the following actions:
 
 ## Report to the NYU Bias Response Line:
 

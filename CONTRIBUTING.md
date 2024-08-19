@@ -1,12 +1,12 @@
 # How to Contribute
 
-The ITP/IMA Community Commitments is a community driven project. This repo is part of our effort to maintain a reachable and participative process in order to easily evolve the document and encourage contributions.
+The ITP/IMA Community Guidelines is a community driven project. This repo is part of our effort to maintain a reachable and participative process in order to easily evolve the document and encourage contributions.
 
-The Community Commitments follows the All-contributors specifications, which means that the community can get involved in any kind of support: like participation in discussions, co-authoring the document, as well as the website. We encourage any type of contribution, any change that helps the community grow a Best content and environment for all community members.
+The Community Guidelines follows the All-contributors specifications, which means that the community can get involved in any kind of support: like participation in discussions, co-authoring the document, as well as the website. We encourage any type of contribution, any change that helps the community grow a Best content and environment for all community members.
 
 ## Contributing Workflow
 
-The basic flow for this participation is through the ITP/IMA Community Commitments Github. You can contribute by giving suggestions, or changing content with markdown. This allows us to change text, edit content without going deeper in the code.
+The basic flow for this participation is through the ITP/IMA Community Guidelines Github. You can contribute by giving suggestions, or changing content with markdown. This allows us to change text, edit content without going deeper in the code.
 
 To contribute through this repository, you must have a Github account.
 
@@ -14,11 +14,11 @@ Contributions are accessible through buttons like “Propose a Change”. The �
 
 ### Contributing with new/additional content, or updates
 
-Using plain text editor Markdown, you can contribute to the Community Commitments.
+Using plain text editor Markdown, you can contribute to the Community Guidelines.
 
 **No code required!**
 
-**Instructions to contribute changes to the Community Commitments document**
+**Instructions to contribute changes to the Community Guidelines document**
 
 1. Go to the .md file where you want to make a change.
 2. Press the edit button to edit the file.
@@ -42,7 +42,7 @@ The website is built in Jekyll. You can contribute to the website using html, cs
 
 ## Getting Started
 
-If you want to help develop the ITP/IMA Community Commitments, here are the steps to get started:
+If you want to help develop the ITP/IMA Community Guidelines, here are the steps to get started:
 
 ### Setup
 

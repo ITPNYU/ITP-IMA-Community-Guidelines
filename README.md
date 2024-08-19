@@ -1,4 +1,4 @@
-# Community Commitments
+# Community Guidelines
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
@@ -6,13 +6,13 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-Welcome to the ITP/IMA Community Commitments! We invite all ITP/IMA community members to thoroughly read the Community Commitments, at [community.itp.io](https://community.itp.io).
+Welcome to the ITP/IMA Community Guidelines! We invite all ITP/IMA community members to thoroughly read the Community Guidelines, at [community.itp.io](https://community.itp.io).
 
-The ITP/IMA Community Commitments is an evolving **work-in-progress** document that establishes and communicates the commitment of the ITP/IMA community to uphold a key set of standards and obligations that aim to make ITP/IMA an inclusive and welcoming environment.
+The ITP/IMA Community Guidelines is an evolving **work-in-progress** document that establishes and communicates the commitment of the ITP/IMA community to uphold a key set of standards and obligations that aim to make ITP/IMA an inclusive and welcoming environment.
 
-The Community Commitments is open to revisions, clarifications, and reconsideration. For more information on how the Community Commitments came to be, who was involved, and how you can get involved check out the [Community Commitments Development](CONTRIBUTING.md). For questions or suggestions, contact equitable@itp.nyu.edu.
+The Community Guidelines is open to revisions, clarifications, and reconsideration. For more information on how the Community Guidelines came to be, who was involved, and how you can get involved check out the [Community Guidelines Development](CONTRIBUTING.md). For questions or suggestions, contact equitable@itp.nyu.edu.
 
-Many terms, concepts, and words in this Community Commitments may be new or unfamiliar. Please refer to the [Glossary](glossary.md) for clarification of meaning. Certain words may be highlighted in the Community Commitments with definitions in order to assist with comprehensibility.
+Many terms, concepts, and words in this Community Guidelines may be new or unfamiliar. Please refer to the [Glossary](glossary.md) for clarification of meaning. Certain words may be highlighted in the Community Guidelines with definitions in order to assist with comprehensibility.
 
 ## Contributors ✨
 
