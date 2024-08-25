@@ -3,7 +3,7 @@ layout: document-code-of-conduct
 title: Community Guidelines
 permalink: /rules_of_play
 
-edit-markdown-link: https://github.com/ITPNYU/ITP-IMA-Code-of-Conduct/edit/main/rules_of_play.md
+edit-markdown-link: https://github.com/ITPNYU/ITP-IMA-Community-Guidelines/edit/main/rules_of_play.md
 
 right-button-text: Next →
 right-button-link: ./usage_of_technology

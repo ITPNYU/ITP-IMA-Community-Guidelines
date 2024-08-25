@@ -10,7 +10,7 @@ permalink: /get_involved
 
 <!-- # Thanks for your interest ITP IMA Community Guidelines! -->
 
-We encourage any level of contribution for improvement: asking questions, providing feedback, minor fixes/typos, and any other kind of support. This is an evolving project that follows **[all-contributors](https://github.com/all-contributors/all-contributors)** specifications. If you want learn more about how to contribute visit [CONTRIBUTING.md](https://github.com/ITPNYU/ITP-IMA-Code-of-Conduct/blob/main/CONTRIBUTING.md)
+We encourage any level of contribution for improvement: asking questions, providing feedback, minor fixes/typos, and any other kind of support. This is an evolving project that follows **[all-contributors](https://github.com/all-contributors/all-contributors)** specifications. If you want learn more about how to contribute visit [CONTRIBUTING.md](https://github.com/ITPNYU/ITP-IMA-Community-Guidelines/blob/main/CONTRIBUTING.md)
 
 **For questions or suggestions, contact <mark><a href="mailto:equitable@itp.nyu.edu" target="_blank">equitable@itp.nyu.edu</a></mark>**
 
@@ -25,7 +25,7 @@ For more about how to **[pull a request](https://docs.github.com/en/github/manag
 
 <!-- button that send to the github page -->
 <div class="next-previous-div">
-    <a class="next-previous-links" href="https://github.com/ITPNYU/ITP-IMA-Code-of-Conduct" target="_blank">ITP IMA Community Guidelines Github</a> 
+    <a class="next-previous-links" href="https://github.com/ITPNYU/ITP-IMA-Community-Guidelines" target="_blank">ITP IMA Community Guidelines Github</a> 
 </div>
 
 <br>
@@ -38,7 +38,7 @@ As a work-in-progress document, you can contribute by giving feedback or open a 
 More about **[Issues](https://docs.github.com/en/github/managing-your-work-on-github/about-issues)**
 
 <div class="next-previous-div">
-    <a class="next-previous-links" href="https://github.com/ITPNYU/ITP-IMA-Code-of-Conduct/issues" target="_blank">Give Feedback</a> 
+    <a class="next-previous-links" href="https://github.com/ITPNYU/ITP-IMA-Community-Guidelines/issues" target="_blank">Give Feedback</a> 
 </div>
 
 <br>
