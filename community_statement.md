@@ -33,9 +33,7 @@ We align ourselves with any values in pursuit of equity and freedom for all iden
 
 ## <a name="land_acknowledgement">Land Acknowledgement</a>
 
-We acknowledge that we are gathered on the unceded land of the Lenape and Canarsie peoples. We acknowledge the Lenape and Canarsie communities, their elders both past and present, as well as future generations.
-
-We also acknowledge that NYU, Tisch School of the Arts, and ITP were founded upon exclusions and erasures of many Indigenous peoples, including those on whose land this institution is located. This acknowledgement demonstrates a commitment to beginning the process of working to dismantle the ongoing legacies of settler colonialism.
+We acknowledge that ITP/IMA is located in ancestral Munsee Lenape homelands. We honor the past, present, and future contributions of the Munsee Lenape peoples. We also believe in the importance of raising awareness of the exclusion and erasure of Indigenous nations and are committed to continuing our learning on this important history.
 
 ## <a name="privilege">Privilege</a>
 
