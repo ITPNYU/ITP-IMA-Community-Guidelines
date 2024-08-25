@@ -3,7 +3,7 @@ layout: document-code-of-conduct
 title: Community Guidelines
 permalink: /usage_of_technology
 
-edit-markdown-link: https://github.com/ITPNYU/ITP-IMA-Code-of-Conduct/edit/main/usage_of_technology.md
+edit-markdown-link: https://github.com/ITPNYU/ITP-IMA-Community-Guidelines/edit/main/usage_of_technology.md
 
 right-button-text: Next →
 right-button-link: ./development

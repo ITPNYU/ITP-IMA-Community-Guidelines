@@ -3,7 +3,7 @@ layout: document-code-of-conduct
 title: Community Guidelines
 permalink: /attribution
 
-edit-markdown-link: https://github.com/ITPNYU/ITP-IMA-Code-of-Conduct/edit/main/attribution.md
+edit-markdown-link: https://github.com/ITPNYU/ITP-IMA-Community-Guidelines/edit/main/attribution.md
 
 right-button-text: ↑ Top
 right-button-link: #attribution
@@ -19,4 +19,4 @@ In addition to the work done by community members in developing the Community Gu
 - [http://p5js.org/community/](http://p5js.org/community/)
 - [https://www.contributor-covenant.org/version/2/0/code_of_conduct/](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)
 - [https://cloud9.support/communityguidelines](https://cloud9.support/communityguidelines)
-- [https://github.com/ml5js/Code-of-Conduct](https://github.com/ml5js/Code-of-Conduct)
+- [https://github.com/ml5js/Community-Guidelines](https://github.com/ml5js/Community-Guidelines)

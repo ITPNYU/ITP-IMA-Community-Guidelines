@@ -76,7 +76,7 @@ GCC and Make versions
 To make a local copy of this repository:
 
 ```
-git clone https://github.com/ITPNYU/ITP-IMA-Code-of-Conduct.git
+git clone https://github.com/ITPNYU/ITP-IMA-Community-Guidelines.git
 ```
 
 ### Website structure

@@ -33,7 +33,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="http://www.luisapereira.net"><img src="https://avatars3.githubusercontent.com/u/295879?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Luisa Pereira</b></sub></a><br /><a href="#content-luisaph" title="Content">🖋</a></td>
-    <td align="center"><a href="https://themis.design"><img src="https://avatars.githubusercontent.com/u/6019802?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Themis</b></sub></a><br /><a href="https://github.com/ITPNYU/ITP-IMA-Code-of-Conduct/commits?author=themiscadiz" title="Code">💻</a> <a href="#design-themiscadiz" title="Design">🎨</a></td>
+    <td align="center"><a href="https://themis.design"><img src="https://avatars.githubusercontent.com/u/6019802?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Themis</b></sub></a><br /><a href="https://github.com/ITPNYU/ITP-IMA-Community-Guidelines/commits?author=themiscadiz" title="Code">💻</a> <a href="#design-themiscadiz" title="Design">🎨</a></td>
   </tr>
 </table>
 
