@@ -1,5 +1,4 @@
 ---
-
 layout: homepage
 title: ITP/IMA Community Guidelines
 author: 'ITP/IMA Community.'
@@ -16,7 +15,7 @@ equitable-link: https://itp.nyu.edu/groups/equitable/
 
 group-h-2: Tech & Society
 group-p-2: Community of critical inquiry at ITP/IMA.
-itp-techandsociety-link: https://itp-techandsociety.github.io/online/
+itp-techandsociety-link: https://techandsociety.itp.io/
 
 reading-h: 📚 Reading List
 reading-p: In addition to the Community Guidelines themselves, when considering the development of creative computing applications, we recommend a further Reading List which highlights key texts on ethics and technology.
