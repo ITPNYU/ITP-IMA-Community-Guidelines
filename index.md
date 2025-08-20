@@ -57,9 +57,11 @@ author-5-link: https://safiyaunoble.com/
 
 We warmly invite all ITP/IMA community members to read and understand the <mark><a href="community_statement">Community Guidelines</a></mark>!
 
-The ITP/IMA Community Guidelines is an evolving **work-in-progress** document that establishes and communicates the commitment of the ITP/IMA community to uphold a key set of standards and obligations that aim to make ITP/IMA an inclusive and welcoming environment.
+The ITP/IMA Community Guidelines is an evolving, **work-in-progress** document that establishes and communicates the community’s commitment to upholding a key set of standards and obligations that aim to make ITP/IMA an inclusive and welcoming environment.
 
-The Community Guidelines is open to revisions, clarifications, and reconsideration. For more information on how the Community Guidelines came to be, who was involved, and how you can get involved check out the Community Guidelines Development <mark><a href="development">Community Guidelines Development</a></mark>. For questions or suggestions, contact <a href="mailto:equitable@itp.nyu.edu">equitable@itp.nyu.edu</a>.
+This document represents a community effort that not only names our aspirations and guidelines for how we interact with each other, but also reflects the type of work, research, and thinking we do at ITP/IMA. Through its collaborative development, evolving structure, statement on technology, and the tools that support its creation (ranging from Zoom to GitHub, Google Docs, the web, slides, language itself, and beyond), we hope to model our understanding that community and technology are enmeshed. We recognize that community is a form of technology, that technology can support community, and that changes in technology can transform communities, and vice versa.
+
+The Community Guidelines is open to revisions, clarifications, and reconsideration. For more information on how the Guidelines came to be, who was involved, and how you can get involved, see the <a href="development">Community Guidelines Development</a></mark> page. For questions or suggestions, contact <a href="mailto:equitable@itp.nyu.edu">equitable@itp.nyu.edu</a>.
 
 <!-- Glossary has not been maintained, instead of deleting it, removing it with this comment to consider adding back in the future -->
 <!--  Many terms, concepts, and words in this Community Guidelines may be new or unfamiliar. Please refer to the <mark><a href="glossary">Glossary</a></mark> for clarification of meaning.  Certain words may be highlighted in the Community Guidelines with definitions in order to assist with comprehensibility. -->
