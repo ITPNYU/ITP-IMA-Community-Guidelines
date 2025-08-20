@@ -64,7 +64,8 @@ The ITP/IMA Community Guidelines is an evolving **work-in-progress** document th
 
 The Community Guidelines is open to revisions, clarifications, and reconsideration. For more information on how the Community Guidelines came to be, who was involved, and how you can get involved check out the Community Guidelines Development <mark><a href="development">Community Guidelines Development</a></mark>. For questions or suggestions, contact <a href="mailto:equitable@itp.nyu.edu">equitable@itp.nyu.edu</a>.
 
-Many terms, concepts, and words in this Community Guidelines may be new or unfamiliar. Please refer to the <mark><a href="glossary">Glossary</a></mark> for clarification of meaning. Certain words may be highlighted in the Community Guidelines with definitions in order to assist with comprehensibility.
+<!-- Glossary has not been maintained, instead of deleting it, removing it with this comment to consider adding back in the future -->
+<!--  Many terms, concepts, and words in this Community Guidelines may be new or unfamiliar. Please refer to the <mark><a href="glossary">Glossary</a></mark> for clarification of meaning.  Certain words may be highlighted in the Community Guidelines with definitions in order to assist with comprehensibility. -->
 
 **This project follows the <mark><a href="https://github.com/ITPNYU/ITP-IMA-Community-Guidelines" target="_blank">all-contributors</a></mark> specification.**
 **Contributions of any kind welcome!**
