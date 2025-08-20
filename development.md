@@ -1,5 +1,5 @@
 ---
-layout: document-code-of-conduct
+layout: community-guidelines
 title: Community Guidelines
 permalink: /development
 
@@ -24,7 +24,7 @@ Contributors to this initial first draft include Ashley Jane Lewis, Lydia Jessup
 
 The website was originally designed and developed by Themis Garcia.
 
-The Community Guidelines are currently maintained by the ITP/IMA Faculty Equitable Committee: Blair Simmons, Daniel Shiffman, David Rios, Sarah Rothberg, Sharon De La Cruz.
+The Community Guidelines are currently maintained by the ITP/IMA Faculty Equitable Committee: Ali Santana, Daniel Shiffman, David Rios, Sarah Rothberg, Sharon De La Cruz.
 
 We expect the Community Guidelines to be an evolving document. This evolution will take at least two forms.
 

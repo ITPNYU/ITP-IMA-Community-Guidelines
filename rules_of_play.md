@@ -1,5 +1,5 @@
 ---
-layout: document-code-of-conduct
+layout: community-guidelines
 title: Community Guidelines
 permalink: /rules_of_play
 
