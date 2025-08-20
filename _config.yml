@@ -23,9 +23,8 @@ email: equitable@itp.nyu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   The ITP/IMA Community Guidelines is an evolving work-in-progress document that establishes and communicates the commitment of the ITP/IMA community to uphold a key set of standards and obligations that aim to make ITP/IMA an inclusive and welcoming environment.
 baseurl: '/ITP-IMA-Community-Guidelines' # the subpath of your site, e.g. /blog
-url: '' # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username: jekyll
+url: 'https://community.itp.io/' # the base hostname & protocol for your site, e.g. http://example.com
+github_username: ITPNYU
 
 # Build settings
 theme: minima
