@@ -64,7 +64,6 @@ GEM
     listen (3.9.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
-    logger (1.6.4)
     mercenary (0.4.0)
     minima (2.5.2)
       jekyll (>= 3.5, < 5.0)
@@ -101,7 +100,6 @@ DEPENDENCIES
   csv
   jekyll (~> 4.3)
   jekyll-feed (~> 0.12)
-  logger
   minima (~> 2.5)
   tzinfo (~> 1.2)
   tzinfo-data
