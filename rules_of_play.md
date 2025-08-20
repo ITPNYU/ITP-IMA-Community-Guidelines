@@ -32,12 +32,36 @@ _These are ideals and behaviors we pledge to hold ourselves to. We will work to 
 
 _These are courtesies and etiquettes that may not have occurred to us because the world changes so quickly._
 
-- Practice asking for consent. It's important not to make assumptions of what's ok or acceptable especially in regards to physical contact, sharing personal information, and sharing content that could be upsetting or potentially triggering.
+- Practice asking for consent. It's important not to make assumptions of what's ok or acceptable especially in regards to physical contact, sharing personal information, and sharing content that could be upsetting or potentially triggering. Read more in the [Consent](#Consent) section below.
 - Do not photograph or record someone (audio or video) without receiving permission first. Do not post online, upload to social media, or tag someone without receiving permission. This applies to people's work and projects as well.
 - Credit other people's work. Whether you are using an open-source library or a classmate has graciously offered you assistance, make note of that and highlight it when presenting your own work.
 - Ask questions when you do not understand something. Chances are you are the not the only person in the classroom or group who does not understand or needs clarification.
 - Coordinate and collaborate. There will be times when space and equipment are in short supply and needed by multiple people. Work together to plan how those resources can be allocated and shared so no one person is monopolizing the resource.
 - Be responsible with your use of materials. Consider: environmentally sustainable materials, reused materials, and materials that do not pose risk to those around you who may have sensitivities to allergies, scents, etc.
+
+## <a name="Consent">Consent</a>
+
+As a community where communication and interactivity are central to our identity, we commit to understanding, encouraging, and practicing a culture of proactive consent. Seeking consent means asking for permission before doing something that may affect someone else in any way.
+
+### Examples of Seeking Consent
+
+- **Consent to talk about someone's work outside of class**
+  For example: _"Is it okay if I tell so-and-so about your work?"_
+
+- **Consent to quote someone's ideas in your project**
+  For example: _"Is it okay if I include what you're talking about in my project? Would you like to be cited, or anonymous?"_
+
+- **Consent to show work that may be triggering or upsetting**
+  For example, you may write to your instructor: _"Next week I will be showing work that will contain violent imagery. I’d like to give students advance warning so they can comfortably opt out."_
+
+- **Consent around physical interaction**
+  For instance, anything outside of a neutral context (handshake, pat on the back, etc).
+
+- **Consent in giving feedback on a project**
+  Before offering critique, check if someone is ready to receive it.
+
+- **Consent in group projects**
+  Ask how roles and responsibilities should be shared rather than assuming.
 
 ## <a name="Unacceptable">Unacceptable</a>
 
