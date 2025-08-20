@@ -21,5 +21,3 @@ Ashley Jane Lewis, Lydia Jessup, Mary Notari, Verónica Alfaro Arias
 ### ITP/IMA Equitability Working Group (2020 - 2022)
 
 Blair Simmons, Daniel Shiffman, David Rios, Luisa Pereira, Matt Romein, Sarah Rothberg
-
-**Thanks goes to these wonderful people who have contributed to these guidelines. [Emoji Key](https://allcontributors.org/docs/en/emoji-key)**✨
