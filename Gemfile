@@ -1,42 +1,27 @@
 source "https://rubygems.org"
 
-# Hello! This is where you manage which Jekyll version is used to run.
-# When you want to use a different version, change it below, save the
-# file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
-#
-#     bundle exec jekyll serve
-#
-# This will help ensure the proper Jekyll version is running.
-# Happy Jekylling!
-
-# Updated Jekyll to the latest 4.x version for modern Ruby compatibility.
 gem "jekyll", "~> 4.3"
-
-# Added webrick, which is required for the `jekyll serve` command in Ruby 3.0+.
 gem "webrick"
 
-# Explicitly added gems that are no longer bundled by default in modern Ruby.
+# Force Bundler to use the EXACT pre-compiled versions from Ruby 3.3.
+# This removes all ambiguity and is the definitive fix.
+gem "bigdecimal", "3.1.5"
+gem "json", "2.7.1"
+
+# Explicitly added gems no longer bundled by default in modern Ruby.
 gem "csv"
 gem "base64"
 
-# This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "minima", "~> 2.5"
+gem "minima"
 
-# If you want to use GitHub Pages, remove the "gem "jekyll"" above and
-# uncomment the line below. To upgrade, run `bundle update github-pages`.
-# gem "github-pages", group: :jekyll_plugins
-
-# If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.12"
+  gem "jekyll-feed"
+  gem "jekyll-seo-tag"
 end
 
-# Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
-# and associated library.
 platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo", "~> 1.2"
   gem "tzinfo-data"
 end
 
-# Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
