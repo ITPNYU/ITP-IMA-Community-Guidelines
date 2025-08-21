@@ -44,7 +44,7 @@ Please call 911 directly to report criminal activity (e.g. physical assault, sex
 
 ## Reach out to ITP / IMA Equitable Faculty Committee
 
-This committee exists to help maintain a consistent space for ITP to reflect on its mission and values, through the lens of equity.
+The ITP / IMA  Equitable Faculty Committee exists to help maintain a consistent space for ITP to reflect on its mission and values, through the lens of equity.
 
 Our community members can also reach out to staff members of the Equitable Faculty Committee:
 
