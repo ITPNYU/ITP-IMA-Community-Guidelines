@@ -11,7 +11,6 @@ header-button-link: ./community_statement
 
 group-h-1: ITP/IMA Equitable Committee
 group-p-1: This committee exists to help maintain a consistent space for ITP to reflect on its mission and values, through the lens of equity.
-.
 equitable-link: https://itp.nyu.edu/groups/equitable/
 
 group-h-2: Tech & Society
